@@ -1,0 +1,2664 @@
+       Hanzi  Pinyin    Definition
+1       的      de     possessive  adjectival suffix
+2       一      yī     one; a  an; alone
+3       是      shì    indeed  yes  right; to be; demonstrative pronoun  this  that
+4       不      bù     no  not; un-; negative prefix
+5       了      le     to finish; particle of completed action
+6       在      zài    be at  in  on; consist in  rest
+7       人      rén    man; people; mankind; someone else
+8       有      yǒu    have  own  possess; exist
+9       我      wǒ     our  us  i  me  my  we
+10      他      tā     other  another; he  she  it
+11      这      zhè    this  the  here
+12      个      gè     numerary adjunct  piece; single
+13      们      men    adjunct pronoun indicate plural
+14      中      zhōng  central; center  middle; in the midst of; hit (target); attain
+15      来      lái    come  coming; return  returning
+16      上      shàng  top; superior  highest; go up  send up
+17      大      dà     big  great  vast  large  high
+18      和      hé     harmony  peace; peaceful  calm
+19      国      guó    nation  country  nation-state
+20      说      shuō   speak  say  talk; scold  upbraid
+21      时      shí    time  season; era  age  period
+22      出      chū    go out  send out; stand; produce
+23      会      huì    assemble  meet together; meeting
+24      你      nǐ     you  second person pronoun
+25      对      duì    correct  right; facing  opposed
+26      生      shēng  life  living  lifetime; birth
+27      能      néng   to be able; can  permitted to; ability
+28      子      zi     offspring  child; fruit  seed of; 1st terrestrial branch
+29      那      nà     that  that one  those
+30      下      xià    under  underneath  below; down; inferior; bring down
+31      年      nián            
+32      后      hòu    queen  empress  sovereign; (simp. for 後) behind  rear  after
+33      作      zuò    make; work; compose  write; act  perform
+34      里      lǐ     unit of distance; village; lane
+35      家      jiā    house  home  residence; family
+36      多      duō    much  many; more than  over
+37      么      me     interrogative particle; repetition of a tune small; tender
+38      去      qù     go away  leave  depart
+39      学      xué    learning  knowledge; school
+40      都      dōu    metropolis  capital; all  the whole; elegant  refined
+41      同      tóng   same  similar; together with
+42      现      xiàn   appear  manifest  become visible
+43      没      méi    not  have not  none; drown  sink
+44      面      miàn   face; surface; plane; side  dimension
+45      起      qǐ     rise  stand up; go up; begin
+46      看      kàn    look  see; examine  scrutinize
+47      天      tiān   sky  heaven; god  celestial
+48      分      fēn    divide; small unit of time etc.
+49      好      hǎo    good  excellent  fine; well
+50      小      xiǎo   small  tiny  insignificant
+51      些      xiē    little  few; rather  somewhat
+52      样      yàng   shape  form  pattern  style
+53      她      tā     she  her 
+54      本      běn    root  origin  source; basis
+55      前      qián   in front  forward; preceding
+56      开      kāi    open; initiate  begin  start
+57      想      xiǎng  think  speculate  plan  consider
+58      机      jī     desk; machine; moment
+59      十      shí    ten  tenth; complete; perfect
+60      工      gōng   labor  work; worker  laborer
+61      明      míng   bright  light  brilliant; clear
+62      三      sān    three    
+63      关      guān   frontier pass; close; relation
+64      点      diǎn   dot  speck  spot; point  degree
+65      高      gāo    high  tall; lofty  elevated
+66      很      hěn    very  quite  much
+67      见      jiàn   see  observe  behold; perceive
+68      什      shén   file of ten soldiers; mixed  miscellaneous
+69      二      èr     two; twice
+70      果      guǒ    fruit; result
+71      西      xī     west(ern); westward  occident
+72      月      yuè    moon; month; KangXi radical 74
+73      话      huà    speech  talk  language; dialect
+74      回      huí    return  turn around; a time
+75      老      lǎo    old  aged; experienced
+76      先      xiān   first  former  previous
+77      儿      ér     son  child; KangXi radical 10
+78      东      dōng   east  eastern  eastward
+79      水      shuǐ   water  liquid  lotion  juice
+80      名      míng   name  rank  title  position
+81      几      jǐ     small table
+82      认      rèn    recognize  know  understand
+83      系      xì     system; line  link  connection
+84      气      qì     steam  vapor; KangXi radical 84
+85      打      dǎ     strike  hit  beat; fight; attack
+86      女      nǚ     woman  girl; feminine; rad. 38
+87      四      sì     four     
+88      电      diàn   electricity; electric; lightning
+89      少      shǎo   few  less  inadequate
+90      太      tài    very  too  much; big; extreme
+91      再      zài    again  twice  re-
+92      做      zuò    work  make; act
+93      期      qī     period of time; date; time limit
+94      五      wǔ     five; surname
+95      书      shū    book  letter  document; writings
+96      听      tīng   hear; understand; obey  comply
+97      住      zhù    reside  live at  dwell  lodge; stop
+98      北      běi    north; northern; northward
+99      觉      jué    to wake up from sleep; conscious
+100     师      shī    teacher  master  specialist
+1       今      jīn    now  today  modern era
+2       院      yuàn   courtyard  yard  court; school
+3       识      shí    recognize  understand  know
+4       候      hòu    wait; expect; visit; greet
+5       飞      fēi    fly; go quickly; dart; high
+6       车      chē    cart  vehicle; carry in cart
+7       服      fú     clothes; wear  dress
+8       怎      zěn    what? why? how?
+9       呢      ne     interrogative or emphatic final; (Cant.) this
+10      叫      jiào   cry  shout; hail  greet  call
+11      影      yǐng   shadow; image  reflection; photograph
+12      字      zì     letter  character  word
+13      爱      ài     love  be fond of  like
+14      商      shāng  commerce  business  trade
+15      请      qǐng   ask  request; invite; please
+16      视      shì    look at  inspect  observe  see
+17      九      jiǔ    nine     
+18      写      xiě    write; draw  sketch; compose
+19      八      bā     eight; all around  all sides
+20      吗      ma     final interrogative particle
+21      吃      chī    eat; drink; suffer  endure  bear
+22      六      liù    number six
+23      医      yī     cure  heal; doctor  medical
+24      号      hào    mark  sign; symbol; number
+25      语      yǔ     language  words; saying  expression
+26      七      qī     seven    
+27      兴      xìng   thrive  prosper  flourish
+28      星      xīng   a star  planet; any point of light
+29      京      jīng   capital city
+30      米      mǐ     hulled or husked uncooked rice
+31      客      kè     guest  traveller; customer
+32      友      yǒu    friend  companion; fraternity
+33      钱      qián   money  currency  coins
+34      热      rè     hot; heat; fever; restless; zeal
+35      坐      zuò    sit; seat; ride  travel by
+36      校      xiào   school; military field officer
+37      脑      nǎo    brain    
+38      谁      shuí   who? whom? whose? anyone?
+39      哪      nǎ     which? where? how?
+40      喜      xǐ     like  love  enjoy; joyful thing
+41      习      xí     practice; flapping wings
+42      欢      huān   happy  pleased  glad; joy; enjoy
+43      冷      lěng   cold  cool; lonely
+44      汉      hàn    Chinese people; Chinese language
+45      衣      yī     clothes  clothing; cover  skin
+46      妈      mā     mother  mama
+47      读      dú     read  study; pronounce
+48      买      mǎi    buy  purchase; bribe  persuade
+49      岁      suì    year; age; harvest
+50      块      kuài   piece  lump; dollar
+51      姐      jiě    elder sister  young lady
+52      亮      liàng  bright  brilliant  radiant  light
+53      朋      péng   friend  pal  acquaintance
+54      谢      xiè    thank; decline
+55      钟      zhōng  clock; bell
+56      雨      yǔ     rain; rainy; KangXi radical 173
+57      饭      fàn    cooked rice; food  meal
+58      睡      shuì   sleep  doze
+59      喝      hē     drink; shout  call out
+60      午      wǔ     noon; 7th terrestrial branch
+61      店      diàn   shop  store; inn  hotel
+62      爸      bà     father  papa
+63      桌      zhuō   table  desk  stand
+64      菜      cài    vegetables; dish  order; food
+65      茶      chá    tea      
+66      狗      gǒu    dog  canis familiaris
+67      杯      bēi    cup  glass
+68      租      zū     rent  lease; rental; tax
+69      昨      zuó    yesterday; in former times  past
+70      漂      piào   float  drift; tossed about
+71      椅      yǐ     chair  seat
+72      猫      māo    cat      
+73      喂      wèi    interjection to call attention
+74      苹      píng   artemisia; duckweed; apple
+75      为      wèi    do  handle  govern  act; be
+76      到      dào    go to  arrive  been to
+77      以      yǐ     by means of; thereby  therefore; consider as; in order to
+78      要      yào    necessary  essential; necessity
+79      就      jiù    just  simply; to come  go to; to approach  near
+80      可      kě     may  can  -able; possibly
+81      也      yě     also; classical final particle of strong affirmation or identity
+82      得      dé     obtain  get  gain  acquire
+83      着      zhe    make move  take action
+84      过      guò    pass  pass through  go across
+85      道      dào    path  road  street; method  way
+86      所      suǒ    place  location; numerary adjunct
+87      然      rán    yes  certainly; pledge  promise
+88      事      shì    affair  matter  business; to serve; accident  incident
+89      经      jīng   classic works; pass through
+90      动      dòng   move  happen; movement  action
+91      还      hái    still  yet  also  besides
+92      进      jìn    advance  make progress  enter
+93      但      dàn    only; but  however  yet  still
+94      因      yīn    cause  reason; by; because (of)
+95      从      cóng   from  by  since  whence  through
+96      日      rì     sun; day; daytime
+97      意      yì     thought  idea  opinion; think
+98      它      tā     it; other
+99      长      zhǎng  long; length; excel in; leader
+100     第      dì     sequence  number; grade  degree
+1       公      gōng   fair  equitable; public; duke
+2       已      yǐ     already; finished; stop
+3       情      qíng   feeling  sentiment  emotion
+4       知      zhī    know  perceive  comprehend
+5       正      zhèng  right  proper  correct
+6       外      wài    out  outside  external; foreign
+7       两      liǎng  two  both  pair  couple; ounce
+8       间      jiān   midpoint  space; place  locality
+9       问      wèn    ask about  inquire after
+10      最      zuì    most  extremely  exceedingly
+11      手      shǒu   hand     
+12      体      tǐ     body; group  class  body  unit; inferior
+13      等      děng            
+14      新      xīn    new  recent  fresh  modern
+15      身      shēn   body; trunk  hull; rad. no. 158
+16      表      biǎo   show  express  manifest  display
+17      给      gěi    give; by  for
+18      次      cì     order  sequence; next
+19      门      mén    gate  door  entrance  opening
+20      常      cháng  common  normal  frequent  regular
+21      教      jiào   teach  class
+22      比      bǐ     to compare  liken; comparison; than
+23      员      yuán   member; personnel  staff member
+24      真      zhēn   real  actual  true  genuine
+25      走      zǒu    walk  go on foot; run; leave
+26      条      tiáo   clause  condition; string  stripe
+27      题      tí     forehead; title  headline; theme
+28      别      bié    separate  other; do not
+29      报      bào    report  tell  announce
+30      务      wù     affairs  business; must  should
+31      场      chǎng  open space  field  market
+32      件      jiàn   numerary adjunct for article; matter
+33      便      biàn   convenience  ease; expedient
+34      司      sī     take charge of  control  manage; officer
+35      眼      yǎn    eye; eyelet  hole  opening
+36      非      fēi    not  negative  non-; oppose
+37      白      bái    white; pure  unblemished; bright
+38      思      sī     think  consider  ponder; final particle
+39      完      wán    complete  finish  settle; whole
+40      色      sè     color  tint  hue  shade; form  body; beauty  desire for beauty
+41      路      lù     road  path  street; journey
+42      告      gào    tell  announce  inform; accuse
+43      边      biān   edge  margin  side  border
+44      望      wàng   to look at  look forward; to hope  expect
+45      共      gòng   together with  all  total; to share
+46      让      ràng   allow  permit  yield  concede
+47      运      yùn    run; simplified form of 運 luck  fortune; ship  transport
+48      笑      xiào   smile  laugh  giggle; snicker
+49      步      bù     step  pace; walk  stroll
+50      每      měi    every  each
+51      快      kuài   rapid  quick  speedy  fast; soon
+52      往      wǎng   go  depart; past  formerly
+53      近      jìn    near  close; approach; intimate
+54      夫      fū     man  male adult  husband; those
+55      准      zhǔn   approve  allow  permit; in accord
+56      始      shǐ    begin  start; then  only then
+57      远      yuǎn   distant  remote  far; profound
+58      备      bèi    prepare  ready  perfect
+59      百      bǎi    one hundred; numerous  many
+60      离      lí     rare beast; strange; elegant
+61      病      bìng   illness  sickness  disease
+62      息      xī     rest  put stop to  end  cease
+63      火      huǒ    fire  flame; burn; anger  rage
+64      早      zǎo    early; soon; morning
+65      找      zhǎo   search  seek  look for; find
+66      吧      ba     emphatic final particle
+67      考      kǎo    examine  test; investigate
+68      红      hóng   red  vermillion; blush  flush
+69      虽      suī    although  even if
+70      希      xī     rare; hope  expect  strive for
+71      房      fáng   house  building; room
+72      黑      hēi    black; dark; evil  sinister
+73      足      zú     foot; attain  satisfy  enough
+74      孩      hái    baby  child; children
+75      站      zhàn   stand up; a stand  station
+76      诉      sù     accuse; sue; inform; narrate
+77      千      qiān   thousand; many  numerous; very; (Cant.) a cheater  swindler
+78      男      nán    male  man; son; baron; surname
+79      助      zhù    help  aid  assist
+80      乐      lè     happy  glad; enjoyable; music
+81      球      qiú    ball  sphere  globe; round
+82      错      cuò    error  blunder  mistake; wrong
+83      晚      wǎn    night  evening; late
+84      试      shì    test  try  experiment
+85      送      sòng   see off  send off; dispatch  give
+86      药      yào    leaf of Dahurian angelica plant; medicine
+87      游      yóu    to swim; float  drift; wander  roam
+88      室      shì    room  home  house  chamber
+89      您      nín             
+90      帮      bāng   help  assist; defend; shoe upper
+91      左      zuǒ    left; east; unorthodox  improper
+92      右      yòu    right; west; right-wing
+93      穿      chuān  penetrate  pierce  drill; wear
+94      哥      gē     elder brother
+95      弟      dì     young brother; junior; i  me
+96      慢      màn    slow(ly)  leisurely  sluggish
+97      忙      máng   busy  pressed for time; hustling
+98      介      jiè    forerunner  herald  harbinger; to lie between; sea shell; to wear armor
+99      鱼      yú     fish; surname; KangXi radical 195
+100     跑      pǎo    run  flee  leave in hurry
+1       贵      guì    expensive  costly  valuable
+2       班      bān    class  group  grade; squad; job
+3       票      piào   slip of paper or bamboo; ticket
+4       睛      jīng   eyeball; pupil of eye
+5       旅      lǚ     trip  journey; travel; traveler
+6       笔      bǐ     writing brush; write; stroke
+7       卖      mài    sell; betray; show off
+8       旁      páng   side; by side  close by  near
+9       阴      yīn             
+10      跳      tiào   jump  leap  vault  bounce; dance
+11      雪      xuě    snow; wipe away shame  avenge
+12      肉      ròu    flesh; meat; KangXi radical 130
+13      馆      guǎn   public building
+14      牛      niú    cow  ox  bull; KangXi radical93
+15      纸      zhǐ    paper    
+16      歌      gē     song  lyrics; sing  chant; praise
+17      床      chuáng bed  couch; framework  chassis
+18      玩      wán    play with  joke  enjoy
+19      妻      qī     wife     
+20      休      xiū    rest  stop; retire; do not!
+21      舞      wǔ     dance  posture  prance; brandish
+22      姓      xìng            
+23      妹      mèi    younger sister
+24      汽      qì     steam  vapor  gas
+25      课      kè     lesson; course; classwork
+26      懂      dǒng   understand  comprehend
+27      绍      shào   continue  carry on; join
+28      丈      zhàng  unit of length equal 3.3 meters; gentleman  man  husband
+29      洗      xǐ     wash  rinse; clean  purify
+30      唱      chàng  sing  chant  call; ditty  song
+31      奶      nǎi             
+32      宜      yí     suitable  right  fitting  proper
+33      累      lèi    tired; implicate  involve; bother
+34      羊      yáng   sheep  goat; KangXi radical 123
+35      零      líng   zero; fragment  fraction
+36      蛋      dàn    eggs; term of abuse
+37      鸡      jī     chicken  
+38      宾      bīn    guest  visitor; surname; submit
+39      颜      yán    face  facial appearance
+40      瓜      guā    melon  gourd  cucumber; rad. 97
+41      晴      qíng   clear weather  fine weather
+42      啡      fēi    morphine; coffee
+43      篮      lán    basket   
+44      咖      kā     coffee; a phonetic
+45      踢      tī     kick     
+46      泳      yǒng   dive; swim
+47      铅      qiān   lead     
+48      地      de     earth; soil  ground; region
+49      而      ér     and; and then; and yet; but
+50      于      yú     in  on  at; go to; surname
+51      自      zì     self  private  personal; from
+52      发      fā     issue  dispatch  send out; hair
+53      用      yòng   use  employ  apply  operate; use
+54      行      xíng   go; walk; move  travel; circulate
+55      种      zhǒng  seed; race  breed; to plant
+56      成      chéng  completed  finished  fixed
+57      方      fāng   a square  rectangle; a region; local
+58      法      fǎ     law  rule  regulation  statute; France  French
+59      如      rú     if  supposing; as if; like  as
+60      当      dāng   bear  accept  undertake; just
+61      定      dìng   decide  settle  fix
+62      其      qí     his  her  its  their; that
+63      主      zhǔ    master  chief owner; host; lord
+64      理      lǐ     reason  logic; manage
+65      心      xīn    heart; mind  intelligence; soul
+66      只      zhǐ    only  just  simply
+67      实      shí    real  true; honest  sincere
+68      者      zhě    that which; he who; those who
+69      力      lì     power  capability  influence
+70      把      bǎ     hold  take; guard; regard as
+71      又      yòu    and  also  again  in addition
+72      业      yè     profession  business; GB radical 111
+73      重      zhòng  heavy  weighty; double
+74      物      wù     thing  substance  creature
+75      应      yīng   should  ought to  must
+76      向      xiàng  toward  direction  trend
+77      头      tóu    head; top; chief  first; boss
+78      文      wén    literature  culture  writing
+79      相      xiāng  mutual  reciprocal  each other
+80      被      bèi             
+81      或      huò    or  either  else; perhaps  maybe
+82      己      jǐ     self  oneself; personal  private; 6th heavenly stem
+83      加      jiā    add to  increase  augment
+84      特      tè     special  unique  distinguished
+85      信      xìn    trust  believe; letter
+86      化      huà    change  convert  reform; -ize
+87      世      shì    generation; world; era
+88      位      wèi    throne; position  post; rank  status; seat
+89      声      shēng  sound  voice  noise; tone; music
+90      提      tí     hold in hand; lift in hand
+91      解      jiě    loosen  unfasten  untie; explain
+92      口      kǒu    mouth; open end; entrance  gate
+93      平      píng   flat  level  even; peaceful
+94      更      gèng   more  still further  much more
+95      变      biàn   change  transform  alter; rebel
+96      总      zǒng   collect; overall  altogether
+97      数      shù    number; several  count; fate
+98      安      ān     peaceful  tranquil  quiet
+99      才      cái    talent  ability; just  only
+100     结      jié    knot  tie; join  connect
+1       目      mù     eye; look  see; division  topic
+2       感      gǎn    feel  perceive  emotion
+3       接      jiē    receive; continue; catch; connect
+4       必      bì     surely  most certainly; must
+5       市      shì    market  fair; city  town; trade
+6       直      zhí    straight  erect  vertical
+7       山      shān   mountain  hill  peak
+8       空      kōng   empty  hollow  bare  deserted
+9       决      jué    decide  determine  judge
+10      马      mǎ     horse; surname; KangXi radical 187
+11      界      jiè    boundary  limit; domain; society; the world
+12      放      fàng   put  release  free  liberate
+13      像      xiàng  a picture  image  figure; to resemble
+14      且      qiě    moreover  also (post-subject); about to  will soon (pre-verb)
+15      难      nán    difficult  arduous  hard; unable
+16      记      jì     record; keep in mind  remember
+17      南      nán    south; southern part; southward
+18      求      qiú    seek; demand  request; beseech
+19      据      jù     to occupy  take possession of; a base  position
+20      张      zhāng  stretch  extend  expand; sheet
+21      该      gāi    should  ought to  need to
+22      万      wàn    ten thousand; innumerable
+23      清      qīng   clear  pure  clean; peaceful
+24      带      dài    belt  girdle  band  strap  zone
+25      风      fēng   wind; air; manners  atmosphere
+26      根      gēn    root  base(d on); foundation
+27      干      gàn    oppose  offend; invade; dried
+28      极      jí     extreme  utmost  furthest  final
+29      办      bàn    manage  do  handle; deal with
+30      议      yì     consult  talk over  discuss
+31      元      yuán   first; dollar; origin; head
+32      单      dān    single  individual  only; lone
+33      调      diào   transfer  move  change; tune
+34      算      suàn   count  calculate  figure; plan
+35      需      xū     need  require  must
+36      花      huā    flower; blossoms
+37      城      chéng  castle; city  town; municipality
+38      级      jí     level  rank  class; grade
+39      复      fù     return; repeat; repeatedly
+40      满      mǎn    fill; full  satisfied
+41      越      yuè    exceed  go beyond; the more ...
+42      容      róng   looks  appearance; figure  form
+43      照      zhào   shine  illumine  reflect
+44      须      xū     must  have to  necessary
+45      包      bāo    wrap  pack  bundle; package
+46      片      piàn   slice  splinter  strip; rad. 91
+47      史      shǐ    history  chronicle  annals
+48      乎      hū     interrogative or exclamatory final particle
+49      查      chá    investigate  examine  seek into
+50      轻      qīng   light; easy  simple; gentle
+51      易      yì     change; easy
+52      除      chú    eliminate  remove  except
+53      阿      ā               
+54      李      lǐ     plum; judge; surname
+55      图      tú     diagram; chart  map  picture
+56      历      lì     history; calendar
+57      突      tū     suddenly  abruptly  unexpectedly
+58      周      zhōu   Zhou dynasty; circumference
+59      较      jiào   compare; comparatively  more
+60      注      zhù    concentrate  focus  direct
+61      选      xuǎn   choose  select; elect; election
+62      响      xiǎng  make sound  make noise; sound
+63      参      cān    take part in  intervene; ginseng
+64      半      bàn    half     
+65      节      jié    knot  node  joint; section
+66      护      hù     protect  guard  defend  shelter
+67      音      yīn    sound  tone  pitch  pronunciation
+68      跟      gēn    heel; to follow  accompany; with
+69      留      liú    stop  halt; stay  detain  keep
+70      讲      jiǎng  explain; discuss; talk
+71      料      liào   consider  conjecture; materials  ingredients
+72      终      zhōng  end; finally  in the end
+73      答      dá     answer  reply; return; assent to
+74      黄      huáng  yellow; surname
+75      奇      qí     strange  unusual  uncanny  occult
+76      段      duàn   section  piece  division
+77      故      gù     ancient  old; reason  because
+78      河      hé     river; stream; yellow river
+79      害      hài    injure  harm; destroy  kill
+80      双      shuāng set of two  pair  couple; both
+81      境      jìng   boundary  frontier; area  region
+82      愿      yuàn   sincere  honest  virtuous
+83      网      wǎng   net; network; KangXi radical 122
+84      育      yù     produce  give birth to; educate
+85      船      chuán  ship  boat  vessel
+86      脸      liǎn   face; cheek; reputation
+87      刻      kè     carve  engrave; quarter hour
+88      刚      gāng   hard  tough  rigid  strong
+89      般      bān    sort  manner  kind  category
+90      怕      pà     to fear  be afraid of; apprehensive
+91      假      jiǎ    falsehood  deception; vacation
+92      久      jiǔ    long time (ago); time passage  grow late
+93      拿      ná     take  hold  grasp; bring; with
+94      阳      yáng            
+95      急      jí     quick  quickly; urgent  pressing
+96      居      jū     live  dwell  reside  sit
+97      环      huán   jade ring or bracelet; ring
+98      树      shù    tree; plant; set up  establish
+99      层      céng   storey  layer  floor  stratum
+100     句      jù     sentence 
+1       简      jiǎn   simple  terse  succinct  a letter
+2       卡      kǎ     card  punch card; calorie
+3       担      dān    carry  bear  undertake
+4       静      jìng   quiet  still  motionless; gentle
+5       检      jiǎn   check; examine
+6       差      chà    to differ; different  wrong; nearly  almost; an officer
+7       角      jiǎo   horn; angle  corner; point
+8       皮      pí     skin  hide  fur  feather; outer
+9       啊      a      exclamatory particle
+10      超      chāo   jump over  leap over; surpass
+11      银      yín    silver; cash  money  wealth
+12      怪      guài   strange  unusual  peculiar
+13      香      xiāng  fragrant  sweet smelling  incense
+14      铁      tiě    iron; strong  solid  firm
+15      草      cǎo    grass  straw  thatch  herbs
+16      脚      jiǎo   leg  foot; base  leg  foundation
+17      酒      jiǔ    wine  spirits  liquor  alcoholic beverage
+18      顾      gù     look back; look at; look after
+19      换      huàn   change   
+20      闻      wén    hear; smell; make known; news
+21      坏      huài   rotten  spoilt  bad  broken down
+22      楚      chǔ    name of feudal state; clear
+23      楼      lóu    building of two or more stories
+24      画      huà    a painting  picture  drawing; to draw
+25      耳      ěr     ear; merely  only; handle
+26      短      duǎn   short; brief; deficient  lacking
+27      遇      yù     meet  come across  encounter
+28      康      kāng   peaceful  quiet; happy  healthy
+29      旧      jiù    old  ancient; former  past
+30      春      chūn   spring; wanton
+31      附      fù     adhere to  append; rely on near to
+32      礼      lǐ     social custom; manners; courtesy
+33      板      bǎn    plank  board; iron or tin plate
+34      婚      hūn    get married; marriage  wedding
+35      鲜      xiān   fresh; delicious; attractive
+36      词      cí     words; phrase  expression
+37      择      zé     select  choose  pick out
+38      健      jiàn   strong  robust  healthy; strength
+39      借      jiè    borrow; lend; make pretext of
+40      园      yuán   garden; park  orchard
+41      牙      yá     tooth  molars  teeth; serrated
+42      束      shù    bind  control  restrain; bale
+43      练      liàn   to practice  drill  exercise  train
+44      爷      yé     father  grandfather
+45      嘴      zuǐ    mouth  lips
+46      戏      xì     theatrical play  show
+47      典      diǎn   law  canon; documentation; classic  scripture
+48      盘      pán    tray  plate  dish; examine
+49      忘      wàng   forget; neglect; miss  omit
+50      赛      sài    compete  contend; contest  race
+51      趣      qù              
+52      迎      yíng   receive  welcome  greet
+53      冰      bīng   ice; ice-cold
+54      努      nǔ     to exert  strive  make an effort; to pout
+55      绿      lǜ     green; chlorine
+56      街      jiē    street  road  thoroughfare
+57      灯      dēng   lantern  lamp
+58      夏      xià    summer; great  grand  big
+59      秋      qiū    autumn  fall; year
+60      末      mò     final  last  end; insignificant
+61      蓝      lán    blue; indigo plant; surname
+62      烧      shāo   burn; bake; heat; roast
+63      哭      kū     weep  cry  wail
+64      冒      mào    risk  brave  dare
+65      惯      guàn   habit  custom; habitually  usual
+66      鸟      niǎo   bird; KangXi radical 196
+67      季      jì     quarter of year; season; surname
+68      鼻      bí     nose; first; KangXi radical 209
+69      腿      tuǐ    legs  thighs
+70      迟      chí    late  tardy; slow; delay
+71      辆      liàng  numerary adjunct for vehicles
+72      净      jìng   clean  pure; cleanse
+73      冬      dōng   winter  11th lunar month
+74      骑      qí     ride horseback; mount; cavalry
+75      叔      shū             
+76      爬      pá     crawl  creep; climb; scramble
+77      扫      sǎo    sweep  clear away; exterminate
+78      箱      xiāng  case  box  chest  trunk
+79      舒      shū    open up  unfold  stretch out; comfortable  easy
+80      绩      jī     spin; achievements
+81      饮      yǐn    drink; swallow; kind of drink
+82      朵      duǒ    cluster of flowers; earlobe
+83      鞋      xié    shoes  footwear in general
+84      邮      yóu    postal  mail; post office
+85      邻      lín    neighbor; neighborhood
+86      聪      cōng   intelligent  clever  bright
+87      梯      tī     ladder  steps  stairs; lean
+88      瓶      píng   jug  pitcher  vase  jar  bottle
+89      疼      téng   aches  pains; be fond of; love
+90      熊      xióng  a bear; brilliant; bright; surname
+91      帽      mào    hat  cap; cap-like tops
+92      炼      liàn   smelt  refine; distill  condense
+93      搬      bān    transfer  move  remove  shift
+94      刷      shuā   brush; clean with brush  scrub
+95      瘦      shòu   thin  emaciated  lean; meager
+96      斤      jīn    a catty (approximately 500 g); an axe; keen  shrewd; KangXi radical number 69
+97      胖      pàng   fat  obese; fatty
+98      饿      è      hungry; greedy for; hunger
+99      聊      liáo   somewhat  slightly  at least
+100     碗      wǎn    bowl  small dish
+1       渴      kě     thirsty  parched; yearn  pine
+2       饱      bǎo             
+3       甜      tián   sweet  sweetness
+4       矮      ǎi     short  dwarf; low
+5       裤      kù     trousers  pants
+6       衫      shān   shirt; robe; gown; jacket
+7       伞      sǎn    umbrella  parasol  parachute
+8       姨      yí              
+9       刮      guā    shave  pare off  scrape
+10      糕      gāo    cakes  pastry
+11      裙      qún    skirt  apron  petticoat
+12      衬      chèn   underwear; inner garments
+13      锻      duàn   forge metal; temper  refine
+14      澡      zǎo    wash  bathe
+15      啤      pí     beer     
+16      蕉      jiāo   banana; plantain
+17      筷      kuài   chopsticks
+18      之      zhī    marks preceding phrase as modifier of following phrase; it  him her  them; go to
+19      部      bù     part  division  section
+20      无      wú     negative  no  not; KangXi radical 71
+21      与      yǔ     and; with; to; for; give  grant
+22      民      mín    people  subjects  citizens
+23      此      cǐ     this  these; in this case  then
+24      使      shǐ    cause  send on a mission  order; envoy  messenger  ambassador
+25      性      xìng   nature  character  sex
+26      全      quán   maintain  keep whole or intact
+27      将      jiāng  will  going to  future; general
+28      由      yóu    cause  reason; from
+29      并      bìng            
+30      美      měi    beautiful  pretty; pleasing
+31      利      lì     gains  advantage  profit  merit
+32      合      hé     combine  unite  join; gather
+33      内      nèi    inside   
+34      度      dù     degree  system; manner; to consider
+35      任      rèn    trust to  rely on  appoint; to bear  duty  office; allow
+36      海      hǎi    sea  ocean; maritime
+37      通      tōng   pass through  common  communicate
+38      原      yuán   source  origin  beginning
+39      及      jí     extend; reach; come up to; and
+40      论      lùn    debate; discuss; discourse
+41      处      chù    place  locale; department
+42      各      gè     each  individually  every  all
+43      入      rù     enter  come in(to)  join
+44      活      huó    live  exist  survive; lively
+45      尔      ěr     you; that  those; final particle
+46      何      hé     what  why  where  which  how
+47      反      fǎn    reverse  opposite  contrary  anti
+48      受      shòu   receive  accept  get; bear  stand
+49      量      liàng  measure  quantity  capacity
+50      建      jiàn   build  establish  erect  found
+51      计      jì     plan  plot; strategem; scheme
+52      管      guǎn   pipe  tube  duct; woodwind music
+53      资      zī     property; wealth; capital
+54      命      mìng   life; destiny  fate  luck; an order  instruction
+55      金      jīn    gold; metals in general; money
+56      指      zhǐ    finger  toe; point  indicate
+57      克      kè     gram; overcome; transliteration
+58      许      xǔ     allow  permit; promise; betroth
+59      区      qū     area  district  region  ward
+60      保      bǎo    protect  safeguard  defend  care
+61      至      zhì    reach  arrive; extremely  very
+62      队      duì    team  group; army unit
+63      社      shè    god of the soil and altars to him; group of families; company  society
+64      展      zhǎn   open  unfold; stretch  extend
+65      科      kē     section  department  science
+66      基      jī     foundation  base
+67      则      zé     rule  law  regulation; grades
+68      却      què    still  but; decline; retreat
+69      光      guāng  light  brilliant  shine; only
+70      即      jí     promptly  quickly  immediately
+71      象      xiàng  elephant; ivory; figure  image
+72      式      shì    style  system  formula  rule
+73      程      chéng  journey  trip; schedule  agenda
+74      死      sǐ     die; dead; death
+75      交      jiāo   mix; intersect; exchange  communicate; deliver
+76      规      guī    rules  regulations  customs  law
+77      取      qǔ     take  receive  obtain; select
+78      拉      lā     pull  drag; seize  hold; lengthen
+79      格      gé     pattern  standard  form; style
+80      术      shù    art  skill  special feat; method  technique
+81      确      què    sure  certain; real  true
+82      传      chuán  summon; propagate  transmit
+83      观      guān   see  observe  view; appearance
+84      切      qiè    cut  mince  slice  carve
+85      导      dǎo    direct  guide  lead  conduct
+86      争      zhēng  dispute  fight  contend  strive
+87      改      gǎi    change  alter; improve  remodel
+88      收      shōu   gather together  collect; harvest
+89      言      yán    words  speech; speak  say
+90      联      lián   connect  join; associate  ally
+91      持      chí    sustain  support; hold  grasp
+92      济      jì     help  aid  relieve; ferry  cross
+93      亲      qīn    relatives  parents; intimate the hazel nut or filbert tree a thorny tree
+94      林      lín    forest  grove; surname
+95      士      shì    scholar  gentleman; soldier
+96      证      zhèng  prove  confirm  verify; proof
+97      失      shī    lose; make mistake  neglect
+98      转      zhuǎn  shift  move  turn
+99      存      cún    exist  live  be; survive; remain
+100     台      tái    platform; unit; term of address
+1       具      jù     tool  implement; draw up  write
+2       流      liú    flow  circulate  drift; class
+3       连      lián   join  connect; continuous; even
+4       深      shēn   deep; depth; far; very  extreme
+5       质      zhì    matter  material  substance
+6       价      jià    price  value
+7       整      zhěng  orderly  neat  tidy; whole
+8       况      kuàng  condition  situation; furthermore
+9       亚      yà     Asia; second
+10      技      jì     skill  ability  talent  ingenuity
+11      际      jì     border  boundary  juncture
+12      约      yuē    treaty  agreement  covenant
+13      示      shì    show  manifest; demonstrate
+14      究      jiū    examine  investigate
+15      线      xiàn   line  thread  wire; clue
+16      断      duàn   sever  cut off; interrupt
+17      精      jīng   essence; semen; spirit
+18      支      zhī    disperse  pay; support; branch
+19      消      xiāo   vanish  die out; melt away
+20      增      zēng   increase  add to  augment
+21      研      yán    grind  rub; study  research
+22      功      gōng   achievement  merit  good result
+23      广      guǎng  wide  extensive  broad; rad. 53
+24      标      biāo   mark  symbol  label  sign; stand the bole of a tree
+25      谈      tán    talk; conversation; surname
+26      引      yǐn    to pull  draw out  attract; to stretch
+27      首      shǒu   head; first; leader  chief; a poem
+28      局      jú     bureau  office; circumstance
+29      专      zhuān  monopolize  take sole possession
+30      费      fèi    expenses  expenditures  fee
+31      尽      jǐn    exhaust  use up; deplete
+32      另      lìng   another  separate  other
+33      仅      jǐn    only  merely  solely  just
+34      落      luò    fall  drop; net income  surplus
+35      随      suí    follow  listen to  submit to
+36      列      liè    a line; to arrange in order  classify
+37      推      tuī    push  expel; push forward
+38      众      zhòng  multitude  crowd; masses  public
+39      案      àn     table  bench; legal case
+40      划      huà    to row or paddle boat; to scratch
+41      律      lǜ     statute  principle  regulation
+42      态      tài    manner  bearing  attitude
+43      验      yàn    test  examine  inspect; verify
+44      责      zé              
+45      够      gòu    enough  adequate
+46      章      zhāng  composition; chapter  section
+47      志      zhì    purpose  will  determination; annals
+48      底      dǐ     bottom  underneath  underside
+49      严      yán    strict  rigorous  rigid; stern
+50      例      lì     precedent  example; regulation
+51      族      zú     a family clan  ethnic group  tribe
+52      供      gōng   supply  provide for; offer in worship
+53      效      xiào   result  effect; effectiveness
+54      续      xù     continue  carry on; succeed
+55      紧      jǐn    tense  tight  taut; firm  secure
+56      绝      jué    to cut  sever  break off  terminate
+57      察      chá    examine  investigate; notice
+58      母      mǔ     mother; female elders; female
+59      批      pī     comment  criticize; wholesale
+60      按      àn     put hand on  press down with hand
+61      围      wéi    surround  encircle  corral
+62      江      jiāng  large river; yangzi; surname
+63      纪      jì     record  annal  historical account
+64      举      jǔ     raise  lift up; recommend
+65      父      fù     father; KangXi radical 88
+66      密      mì     dense  thick  close; intimate
+67      低      dī     low; to lower  hang  bend  bow
+68      止      zhǐ    stop  halt  desist; detain
+69      细      xì     fine  tiny; slender  thin
+70      值      zhí    price    
+71      仍      réng   yet  still  as ever; again; keep -ing  continuing
+72      破      pò     break  ruin  destroy; rout
+73      倒      dào    fall over; lie down; take turns
+74      职      zhí    duty  profession; office  post
+75      速      sù     quick  prompt  speedy
+76      否      fǒu    not  no  negative; final particle
+77      毛      máo    hair  fur  feathers; coarse
+78      甚      shén   great extent; considerably
+79      普      pǔ     universal  general  widespread
+80      弹      dàn    pellet  bullet  shot  shell
+81      苦      kǔ     bitter; hardship  suffering
+82      印      yìn    print  seal  stamp  chop  mark
+83      预      yù     prepare  arrange; in advance
+84      微      wēi    small  prefix micro-  trifling
+85      继      jì     continue  maintain  carry on
+86      惊      jīng   frighten  surprise  startle
+87      伤      shāng  wound  injury; fall ill from
+88      适      shì    go  reach; appropriate  suitable
+89      省      shěng  province; save  economize
+90      卫      wèi    guard  protect  defend
+91      险      xiǎn   narrow pass  strategic point
+92      排      pái    row  rank  line
+93      福      fú     happiness  good fortune  blessing
+94      警      jǐng   guard  watch; alert  alarm
+95      获      huò    obtain  get  receive; seize
+96      负      fù     load  burden; carry  bear
+97      云      yún    say  speak; clouds
+98      停      tíng   stop  suspend  delay; suitable
+99      疑      yí     doubt  question  suspect
+100     洲      zhōu   continent; island; islet
+1       竟      jìng   finally  after all  at last
+2       激      jī     arouse  excite  incite; quickly
+3       演      yǎn    perform  put on; exercise
+4       判      pàn    judge; discriminate; conclude
+5       既      jì     already; de facto; since; then
+6       积      jī     accumulate  store up  amass
+7       富      fù     abundant  ample; rich  wealthy
+8       占      zhàn   divine; observe; versify
+9       修      xiū    study; repair; cultivate
+10      降      jiàng  descend  fall  drop; lower  down
+11      坚      jiān   hard  strong  firm; resolute
+12      免      miǎn   spare; excuse from; evade
+13      压      yā     press; oppress; crush; pressure
+14      养      yǎng   raise  rear  bring up; support
+15      怀      huái   bosom  breast; carry in bosom
+16      乱      luàn   confusion  state of chaos  revolt
+17      航      háng   sail; navigate; ship  boat
+18      优      yōu    superior  excellent; actor
+19      著      zhe    manifest; (Cant.) to wear
+20      份      fèn    portion  part; duty
+21      艺      yì     art; talent  ability; craft
+22      概      gài    generally  approximately
+23      敢      gǎn    to dare  venture; bold  brave
+24      户      hù     door; family
+25      洋      yáng   ocean  sea; foreign; western
+26      款      kuǎn   item  article; clause; fund
+27      评      píng   appraise  criticize  evaluate
+28      座      zuò    seat; stand  base
+29      释      shì    interprete  elucidate; release
+30      景      jǐng   scenery  view; conditions
+31      登      dēng   rise  mount  board  climb
+32      货      huò    goods  commodities  products
+33      互      hù     mutually  reciprocally
+34      付      fù     give  deliver  pay  hand over; entrust
+35      危      wēi    dangerous  precarious; high
+36      讨      tǎo    to discuss; ask for  beg; demand; dun; marry
+37      丽      lì     beautiful  magnificent  elegant
+38      序      xù     series  serial order  sequence
+39      永      yǒng   long  perpetual  eternal  forever
+40      呼      hū     breathe sigh  exhale; call  shout
+41      味      wèi    taste  smell  odor; delicacy
+42      沙      shā    sand  gravel  pebbles; granulated
+43      掉      diào   turn  move; shake  wag; drop down
+44      杂      zá     mixed  blended; mix  mingle
+45      误      wù     err  make mistake; interfere
+46      减      jiǎn   decrease  subtract  diminish
+47      肯      kěn    willing; consent to  permit
+48      败      bài    be defeated  decline  fail
+49      梦      mèng   dream; visionary; wishful
+50      散      sàn    scatter  disperse  break up
+51      温      wēn    lukewarm 
+52      困      kùn    to surround  beseige; to be surrounded; difficult
+53      封      fēng   letter  envelope; feudal
+54      缺      quē    be short of  lack; gap  deficit
+55      恐      kǒng   fear; fearful  apprehensive
+56      松      sōng   pine tree; fir tree
+57      虑      lǜ     be concerned  worry about
+58      幸      xìng   luck(ily)  favor  fortunately
+59      赶      gǎn    pursue  follow; expel  drive away
+60      剧      jù     theatrical plays  opera  drama
+61      叶      yè     to harmonize  to rhyme; to unite; (borrowed for) leaf
+62      吸      xī     inhale  suck in; absorb; attract
+63      呀      ya     particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten
+64      顺      shùn   obey  submit to  go along with
+65      输      shū    transport  carry  haul
+66      招      zhāo   beckon  summon; recruit  levy
+67      脱      tuō    take off 
+68      油      yóu    oil  fat  grease  lard; paints
+69      材      cái    material  stuff; timber; talent
+70      博      bó     gamble  play games; wide  broad
+71      烟      yān    smoke  soot; opium; tobacco  cigarettes
+72      授      shòu   give to  transmit; confer
+73      禁      jìn    restrict  prohibit  forbid
+74      孙      sūn    grandchild  descendent; surname
+75      篇      piān   chapter  section  essay  article
+76      遍      biàn   everywhere  all over  throughout
+77      础      chǔ    foundation stone  plinth
+78      翻      fān    flip over  upset  capsize
+79      森      sēn    forest; luxuriant vegetation
+80      默      mò     silent; quiet  still; dark
+81      熟      shú    well-cooked; ripe; familiar with
+82      伙      huǒ    companion  colleague; utensils
+83      弄      nòng   do  play or fiddle with; alley
+84      刀      dāo    knife; old coin; measure
+85      窗      chuāng window   
+86      醒      xǐng   wake up; sober up; startle
+87      购      gòu    buy  purchase; hire
+88      虎      hǔ     tiger; brave  fierce; surname
+89      扬      yáng   scatter  spread; praise
+90      毕      bì     end  finish  conclude; completed
+91      尤      yóu    especially  particularly
+92      竞      jìng   contend  vie  compete
+93      弃      qì     reject  abandon  discard
+94      麻      má     hemp  jute  flax; sesame
+95      申      shēn   to state to a superior  report; extend; 9th terrestrial branch
+96      售      shòu   sell     
+97      针      zhēn   needle; pin; tack; acupuncture
+98      抱      bào    embrace  hold in arms  enfold
+99      鼓      gǔ     drum; beat  top  strike
+100     植      zhí    plant  trees  plants; grow
+1       页      yè     page  sheet  leaf; rad. no. 181
+2       折      zhé    break off  snap; bend
+3       尊      zūn    respect  revere  venerate; honor
+4       秀      xiù    ear of grain; flowering  luxuriant; refined  elegant  graceful
+5       染      rǎn    dye; be contagious; infect
+6       迷      mí     bewitch  charm  infatuate
+7       诚      chéng  sincere  honest; true  real
+8       彩      cǎi    hue  color; variegated colors
+9       抽      chōu   draw out  pull out; sprout
+10      浪      làng   wave; wasteful  reckless
+11      丰      fēng   abundant  lush  bountiful  plenty
+12      译      yì     translate; decode; encode
+13      距      jù              
+14      符      fú     i.d. tag  tally  symbol  charm
+15      勇      yǒng   brave  courageous  fierce
+16      厅      tīng   hall  central room
+17      拜      bài    do obeisance  bow  kowtow
+18      巧      qiǎo   skillful  ingenious  clever
+19      戴      dài    wear on top; support
+20      童      tóng   child  boy  servant boy; virgin
+21      乘      chéng  ride  ascend; avail oneself of; numerary adjunct for vehicles
+22      挂      guà    hang  suspend; suspense
+23      奖      jiǎng  prize  reward; give award to
+24      厚      hòu    thick; substantial; greatly
+25      镜      jìng   mirror; lens; glass; glasses
+26      烦      fán    bother  vex  trouble; troublesome
+27      签      qiān   sign  endorse; slip of paper
+28      牌      pái    signboard  placard
+29      咱      zán    we  us   
+30      奋      fèn    strive  exert effort; arouse
+31      播      bō     sow  spread; broadcast; cast away  reject
+32      桥      qiáo   bridge; beam  crosspiece
+33      寒      hán    cold  wintry  chilly
+34      聚      jù     assemble  meet together  collect
+35      袋      dài    pocket  bag  sack  pouch
+36      暂      zàn    temporary
+37      估      gū     merchant; estimate  guess  presume
+38      拒      jù     ward off with hand  defend
+39      忆      yì     remember  reflect upon; memory
+40      闹      nào    quarrel; dispute hotly
+41      厉      lì     whetstone; grind  sharpen; whet
+42      穷      qióng  poor  destitute  impoverished
+43      码      mǎ     number  numerals; yard; symbol
+44      偶      ǒu     accidentally  coincidently; an idol
+45      稍      shāo   little  slightly; rather
+46      矿      kuàng  mine; mineral  ore
+47      抬      tái    lift  carry
+48      倍      bèi    times  fold  multiple times
+49      污      wū     filthy  dirty  impure  polluted
+50      耐      nài    endure  bear; resist; patient
+51      粗      cū     rough  thick  course; rude
+52      悉      xī     know  learn about  comprehend
+53      详      xiáng  detailed  complete  thorough
+54      允      yǔn    to grant  to allow  to consent
+55      剩      shèng  leftovers  residue  remains
+56      漫      màn    overflow of water; spreading
+57      酸      suān   tart  sour; acid; stiff; spoiled
+58      辛      xīn    bitter; toilsome  laborious; 8th heavenly stem
+59      餐      cān    eat  dine; meal; food
+60      挺      tǐng   to stand upright  straighten; rigid
+61      励      lì     strive; encourage
+62      键      jiàn   door bolt  lock bolt; key
+63      扰      rǎo    disturb  annoy  agitate
+64      阅      yuè    examine  inspect  review  read
+65      汗      hàn    perspiration  sweat
+66      骗      piàn   swindle  cheat out of  defraud
+67      龄      líng   age; years
+68      惜      xī     pity  regret  rue  begrudge
+69      仔      zǐ     small thing  child; young animal
+70      俩      liǎ    two  pair
+71      籍      jí     record  register  list; census
+72      凉      liáng  cool  cold; disheartened
+73      貌      mào    countenance  appearance
+74      猜      cāi    guess  conjecture  suppose; feel
+75      怜      lián   pity  sympathize
+76      躺      tǎng   lie down  recline
+77      钢      gāng   steel; hard  strong  tough
+78      寄      jì     send  transmit  mail; rely on
+79      汤      tāng   hot water; soup  gravy  broth
+80      肥      féi    fat  plump  obese; fertile
+81      尝      cháng  taste; experience  experiment
+82      厌      yàn    dislike  detest  reject; satiate
+83      脏      zàng   internal organs  viscera; dirty
+84      幽      yōu    quiet  secluded  tranquil; dark
+85      丢      diū    discard  
+86      泉      quán   spring  fountain; wealth  money
+87      祝      zhù    pray for happiness or blessings
+88      陪      péi    accompany  be with  keep company
+89      贺      hè     congratulate; send present
+90      琴      qín    Chinese lute or guitar
+91      恼      nǎo    angered  filled with hate
+92      敲      qiāo   strike  beat  pound  hammer; rap
+93      暖      nuǎn   warm  genial
+94      糖      táng   sugar; candy; sweets
+95      擦      cā     wipe  scrub  rub  scour; brush
+96      肤      fū     skin; superficial  shallow
+97      肚      dù     belly; abdomen; bowels
+98      赢      yíng   win; surplus  gain  profit
+99      址      zhǐ    site  location  land for house
+100     悔      huǐ    repent  show remorse  regret
+1       邀      yāo    invite  welcome; meet  intercept
+2       羽      yǔ     feather  plume; wings; rad. 124
+3       盐      yán    salt     
+4       傅      fù     tutor  teacher; assist; surname
+5       帅      shuài  commander  commander-in-chief
+6       扔      rēng   throw  hurl; throw away  cast
+7       傲      ào     proud  haughty  overbearing
+8       拾      shí    pick up  collect  tidy up; accounting form of the numeral ten
+9       填      tián   fill in  fill up; make good
+10      扮      bàn    dress up; dress up as
+11      愉      yú     pleasant  delightful; please
+12      慕      mù     long for  desire; admire
+13      秒      miǎo   beard of grain or corn; a second
+14      塑      sù     model in clay  sculpt; plastics
+15      羞      xiū    disgrace  shame; ashamed; shy
+16      盒      hé     small box or case; casket
+17      棵      kē     numerary adjunct for trees
+18      谅      liàng  excuse  forgive; guess  presume
+19      葡      pú     grapes   
+20      厨      chú    kitchen; closet; cupboard
+21      鸭      yā     duck; Anas species (various)
+22      谊      yì     friendship; appropriate  suitable
+23      歉      qiàn   deficient  lacking  insufficient
+24      赚      zhuàn  make money  earn; gain  profit
+25      萄      táo    grapes   
+26      脾      pí     spleen  pancreas; disposition
+27      懒      lǎn    lazy  languid  listless
+28      骄      jiāo   spirited horse; haughty
+29      聘      pìn    engage  employ; betroth
+30      巾      jīn    kerchief; towel; turban; KangXi radical number 50
+31      堵      dǔ     wall; stop  prevent; stop up
+32      棒      bàng   stick  club  truncheon; hit
+33      硕      shuò   great  eminent; large  big
+34      戚      qī     relative; be related to; sad
+35      笨      bèn    foolish  stupid  dull; awkward
+36      泼      pō     pour  splash  water  sprinkle
+37      郊      jiāo   suburbs; waste land  open spaces
+38      饼      bǐng   rice-cakes  biscuits
+39      咳      hāi    cough    
+40      桶      tǒng   pail  bucket  tub; cask  keg
+41      辣      là     peppery  pungent  hot; cruel
+42      膊      bó     shoulders  upper arms
+43      趟      tàng   time  occasion; take journey
+44      匙      shi    spoon; surname
+45      钥      yào    key; lock
+46      胳      gē     armpit  arms
+47      咸      xián   together; all  completely; united
+48      汁      zhī    juice  liquor  fluid  sap  gravy  sauce
+49      垃      lā     garbage  refuse  waste
+50      烤      kǎo    bake  roast  toast  cook
+51      圾      jī     garbage  rubbish; shaking; danger
+52      逛      guàng  ramble  stroll  roam  wander
+53      膏      gāo    grease  fat; paste  ointment
+54      羡      xiàn   envy  admire; praise; covet
+55      暑      shǔ    hot      
+56      嗽      sòu    cough  gargle  clear throat
+57      橡      xiàng  chestnut oak; rubber tree; rubber
+58      厕      cè     mingle with; toilet  lavatory
+59      袜      wà     socks  stockings
+60      勺      sháo   spoon  ladle; unit of volume
+61      柿      shì    persimmon
+62      乒      pīng   used with pong for ping pong
+63      乓      pāng   used with ping for ping pong
+64      饺      jiǎo   stuffed dumplings
+65      军      jūn    army  military; soldiers  troops
+66      战      zhàn   war  fighting  battle
+67      政      zhèng  government  political affairs
+68      产      chǎn   give birth  bring forth  produce
+69      制      zhì    system; establish; overpower
+70      代      dài    replace  replacement (of person or generation); era  generation
+71      立      lì     stand; let stand; establish  set
+72      义      yì     right conduct  righteousness
+73      神      shén   spirit  god  supernatural being
+74      德      dé     ethics  morality  virtue
+75      统      tǒng   govern  command  control; unite
+76      形      xíng   form  shape  appearance
+77      治      zhì    govern  regulate  administer
+78      达      dá     arrive at  reach; intelligent; smooth  slippery
+79      强      qiáng  strong  powerful  energetic
+80      权      quán   power  right  authority
+81      王      wáng   king  ruler; royal; surname
+82      设      shè    build; establish; display
+83      品      pǐn    article  product  commodity
+84      类      lèi    class  group  kind  category
+85      领      lǐng   neck; collar; lead  guide
+86      造      zào    construct  build  make  begin; prepare
+87      组      zǔ     class; section  department
+88      英      yīng   petal  flower  leaf; brave  a hero; England  English
+89      令      lìng            
+90      布      bù     cotton cloth  textiles  linen
+91      未      wèi    not yet; 8th terrestrial branch
+92      击      jī     strike  hit  beat; attack  fight
+93      兵      bīng   soldier  troops
+94      团      tuán   sphere  ball  circle; mass  lump
+95      集      jí     assemble  collect together
+96      华      huá    flowery; illustrious; Chinese
+97      石      shí    stone  rock  mineral; rad. 112
+98      府      fǔ     prefecture; prefect; government
+99      似      shì    resemble  similar to; as if  seem
+100     官      guān   official  public servant
+1       器      qì     receptacle  vessel; instrument
+2       称      chēng  call; name  brand; address; say
+3       企      qǐ     plan a project; stand on tiptoe
+4       委      wěi    appoint  send  commission
+5       曾      céng   already; sign of past
+6       农      nóng   agriculture  farming; farmer
+7       装      zhuāng dress  clothes  attire; fill
+8       显      xiǎn   manifest  display; evident  clear
+9       念      niàn   think of  recall  study
+10      青      qīng   blue  green  black; young
+11      武      wǔ     military; martial  warlike
+12      势      shì    power  force; tendency
+13      古      gǔ     old  classic  ancient
+14      构      gòu    frame  building  structure
+15      土      tǔ     soil  earth; items made of earth
+16      投      tóu    throw  cast  fling  pitch; jump
+17      某      mǒu    certain thing or person
+18      维      wéi    maintain  preserve  safeguard
+19      革      gé     leather  animal hides; rad. 177
+20      敌      dí     enemy  foe  rival; resist
+21      致      zhì    send  deliver  present; cause
+22      派      pài    school of thought  sect  branch
+23      营      yíng   encampment  barracks; manage
+24      巴      bā     greatly desire  anxiously hope
+25      防      fáng   defend; prevent; embankment
+26      施      shī    grant  bestow; give; act; name
+27      型      xíng   pattern  model  type; law; mold
+28      依      yī     rely on  be set in; consent  obey a wish
+29      群      qún    (same as 羣) group  crowd  multitude  mob
+30      项      xiàng  neck  nape of neck; sum; funds
+31      织      zhī    weave  knit; organize  unite
+32      斗      dòu    Chinese peck; liquid measure
+33      采      cǎi    collect  gather; pick  pluck
+34      杀      shā    kill  slaughter  murder; hurt
+35      朝      cháo   dynasty; morning
+36      属      shǔ    class  category  type; belong to
+37      限      xiàn   boundary  limit  line
+38      威      wēi    pomp  power; powerful; dominate
+39      状      zhuàng form; appearance; shape; official
+40      率      lǜ     to lead; ratio; rate; limit
+41      独      dú     alone  single  solitary  only
+42      创      chuàng establish  create; knife cut
+43      承      chéng  inherit  receive; succeed
+44      股      gǔ     thighs  haunches  rump; share
+45      益      yì     profit  benefit; advantage
+46      血      xuè    blood; radical number 143
+47      素      sù     white (silk); plain; vegetarian; formerly; normally
+48      夜      yè     night  dark; in night; by night
+49      初      chū    beginning  initial  primary
+50      源      yuán   spring; source  head; surname
+51      食      shí    eat; meal; food; KangXi radical number 184
+52      待      dài    treat  entertain  receive; wait
+53      述      shù    narrate  state  express
+54      陆      lù     land  continental; army
+55      置      zhì    place  lay out; set aside
+56      劳      láo    labor  toil  do manual work
+57      财      cái    wealth  valuables  riches
+58      纳      nà     admit  take  receive  accept
+59      雷      léi    thunder  
+60      模      mó     model  standard  pattern; copy
+61      充      chōng  fill  be full  supply
+62      木      mù     tree; wood  lumber; wooden
+63      龙      lóng   dragon; symbolic of emperor
+64      冲      chōng  soar; pour boiling water over
+65      射      shè    shoot  eject  issue forth  emit
+66      略      lüè    approximately  roughly; outline
+67      范      fàn    surname; bee-like insect
+68      村      cūn    village  hamlet; uncouth  vulgar
+69      哈      hā     sound of laughter
+70      退      tuì    step back  retreat  withdraw
+71      余      yú     I  my  me; surname; surplus
+72      痛      tòng   pain  ache; sorry  sad; bitter
+73      灵      líng   spirit  soul; spiritual world
+74      配      pèi    match  pair; equal; blend
+75      征      zhēng  invade  attack  conquer
+76      挥      huī    direct; wipe away; squander
+77      胜      shèng  victory; excel  be better than
+78      阶      jiē    stairs  steps; rank  degree
+79      沉      chén   sink  submerge; addicted to
+80      善      shàn   good  virtuous  charitable  kind
+81      执      zhí    hold in hand; keep; carry out
+82      追      zhuī   pursue  chase after; expel
+83      宣      xuān   declare  announce  proclaim
+84      佛      fú     Buddha; of Buddhism; merciful person; Buddhist image; the dead (Jap.)
+85      控      kòng   accuse  charge; control
+86      税      shuì   taxes    
+87      背      bèi    back; back side; behind; betray
+88      阵      zhèn   column  row or file of troops
+89      恶      è      evil  wicked  bad  foul
+90      顿      dùn    pause  stop; bow  kowtow; arrange
+91      守      shǒu   defend  protect  guard  conserve
+92      岛      dǎo    island   
+93      托      tuō    to hold up with palm; to support  rely on
+94      烈      liè    fiery  violent  vehement  ardent
+95      索      suǒ    large rope  cable; rules  laws; to demand  to exact; to search  inquire; isolated
+96      胡      hú     recklessly  foolishly; wildly
+97      靠      kào    lean on  trust  depend on; near
+98      版      bǎn    printing blocks; edition
+99      宝      bǎo    treasure  jewel; precious  rare
+100     欧      ōu     translit.: Europe; ohm; surname
+1       核      hé     seed  kernel  core  nut; atom
+2       暗      àn     dark; obscure; in secret  covert
+3       良      liáng  good  virtuous  respectable
+4       升      shēng  arise  go up; hoist; advance
+5       临      lín    draw near  approach; descend
+6       架      jià    rack  stand  prop; prop up
+7       域      yù     district  region  boundary; land
+8       括      kuò    include  embrace  enclose
+9       编      biān   knit  weave; arrange; compile
+10      测      cè     measure  estimate  conjecture
+11      屋      wū     house; room; building  shelter
+12      渐      jiàn   gradually
+13      救      jiù    save  rescue  relieve; help  aid
+14      枪      qiāng  spear  lance; gun  rifle
+15      县      xiàn   county  district  subdivision
+16      尚      shàng  still  yet; even; fairly  rather
+17      毫      háo    fine hair; measure of length
+18      移      yí     change place  shift; move about
+19      娘      niáng  mother; young girl; woman; wife
+20      智      zhì    wisdom  knowledge  intelligence
+21      掌      zhǎng  palm of hand  sole of foot  paw
+22      遗      yí     lose; articles lost; omit
+23      固      gù     to become solid  solidify; strength
+24      席      xí     seat; mat; take seat; banquet
+25      秘      mì     secret  mysterious  abstruse
+26      均      jūn    equal  even  fair; all  also
+27      销      xiāo   melt  fuse; market  sell
+28      诗      shī    poetry; poem  verse  ode
+29      藏      cáng   hide  conceal; hoard  store up
+30      损      sǔn    diminish; impair; injure
+31      忽      hū     suddenly  abruptly; neglect
+32      巨      jù     large  great  enormous; chief
+33      炮      pào    large gun  cannon; artillery
+34      录      lù     copy  write down  record
+35      乡      xiāng  country; rural; village
+36      庭      tíng   courtyard; spacious hall or yard
+37      妇      fù     married women; woman; wife
+38      归      guī    return; return to  revert to
+39      含      hán    hold in mouth; cherish; contain
+40      摇      yáo    wag  swing  wave; shake; scull
+41      补      bǔ     mend  patch  fix  repair  restore
+42      谓      wèi    say  tell; call  name; be called
+43      毒      dú     poison  venom; poisonous
+44      疗      liáo   be healed  cured  recover
+45      逐      zhú    chase  expel; one by one
+46      寻      xún    seek  search  look for; ancient
+47      厂      chǎng  factory  workshop; radical 27
+48      岸      àn     bank  shore; beach  coast
+49      炸      zhà    to fry in oil; to scald; to explode
+50      载      zài    load; carry; transport  convey
+51      避      bì     avoid; turn aside; escape; hide
+52      抓      zhuā   scratch; clutch  seize  grab
+53      荣      róng   glory  honor; flourish  prosper
+54      姑      gū              
+55      逃      táo    escape  flee; abscond  dodge
+56      顶      dǐng   top  summit  peak; to carry on the head
+57      玉      yù     jade  precious stone  gem
+58      迫      pò     coerce  force  compel; urgent
+59      洞      dòng   cave  grotto; ravine; hole
+60      卷      juǎn   scroll; curl; make a comeback
+61      坦      tǎn    flat  smooth; self-possessed
+62      宁      níng   calm  peaceful  serene; healthy
+63      训      xùn    teach  instruct; exegesis
+64      私      sī     private  personal; secret
+65      丝      sī     silk; fine thread; wire; strings
+66      握      wò     grasp  hold fast  take by hand
+67      骨      gǔ     bone; skeleton; frame  framework
+68      访      fǎng   visit; ask  inquire
+69      弱      ruò    weak; fragile  delicate
+70      鬼      guǐ    ghost; spirit of dead; devil
+71      软      ruǎn   soft  flexible  pliable; weak
+72      扩      kuò    expand  enlarge  stretch
+73      盖      gài    cover  hide  protect
+74      雄      xióng  male of species; hero; manly
+75      稳      wěn    stable  firm  solid  steady
+76      亿      yì     hundred million; many
+77      刺      cì     stab; prick  irritate; prod
+78      拥      yōng   embrace  hug  squeeze; crowd
+79      齐      qí     even  uniform  of equal length
+80      虚      xū     false    
+81      析      xī     split wood; break apart; divide
+82      透      tòu    penetrate  pass through
+83      替      tì     change  replace  substitute for
+84      途      tú     way  road  path  journey; course
+85      兄      xiōng  elder brother
+86      迅      xùn    quick  hasty  rapid  sudden
+87      套      tào    case  cover  wrapper  envelope
+88      贸      mào    trade  barter; mixed; rashly
+89      唯      wéi    only; yes
+90      轮      lún    wheel; revolve  turn; recur
+91      库      kù     armory  treasury  storehouse
+92      迹      jī     traces  impressions  footprints
+93      促      cù     urge  press  hurry; close
+94      延      yán    delay  postpone  defer
+95      震      zhèn   shake  quake  tremor; excite
+96      甲      jiǎ    armor  shell; fingernails; 1st heavenly stem
+97      伟      wěi    great  robust; extraordinary
+98      缓      huǎn   slow  leisurely; to postpone  delay
+99      闪      shǎn   flash; avoid  dodge  evade
+100     哲      zhé    wise  sagacious; wise man  sage
+1       络      luò    enmesh  wrap around; web  net
+2       纯      chún   pure  clean  simple
+3       忍      rěn    endure  bear  suffer; forbear
+4       筑      zhù    ancient lute; build
+5       贝      bèi    sea shell; money  currency
+6       振      zhèn   raise  excite  arouse action
+7       圆      yuán   circle; round  circular; complete
+8       搞      gǎo    to clear  clarify
+9       狂      kuáng  insane  mad; violent; wild
+10      措      cuò    place; collect  arrange; employ
+11      培      péi    bank up with dirt; cultivate
+12      宽      kuān   broad  wide; spacious  vast
+13      摆      bǎi    put  place; display; swing  sway
+14      伸      shēn   extend  stretch out  open up; trust
+15      摩      mó     rub  scour  grind; friction
+16      悲      bēi    sorrow  grief; sorry  sad
+17      拍      pāi    clap  tap  beat; beat or rhythm
+18      硬      yìng   hard  firm  strong; obstinate
+19      麦      mài    wheat  barley  oats; simplified form of KangXi radical number 199
+20      操      cāo    conduct  run  control  manage
+21      阻      zǔ     impede  hinder  obstruct; oppose
+22      订      dìng   draw up agreement; arrange
+23      赞      zàn    help  support  assist  aid
+24      纷      fēn    in disorder  scattered  tangled
+25      喊      hǎn    shout  call out  yell; howl; cry
+26      违      wéi    disobey  violate  defy; be apart from
+27      汇      huì    concourse; flow together  gather
+28      币      bì     currency  coins  legal tender
+29      殊      shū    different  special  unusual
+30      献      xiàn   offer  present; show  display
+31      裁      cái    cut out; decrease
+32      触      chù    butt  ram  gore; touch
+33      敬      jìng   respect  honor; respectfully
+34      墙      qiáng  wall     
+35      召      zhào   imperial decree; summon
+36      罚      fá     penalty  fine; punish  penalize
+37      享      xiǎng  enjoy    
+38      犹      yóu    like  similar to  just like  as
+39      彻      chè    penetrate  pervade; penetrating
+40      描      miáo   copy  trace  sketch; depict
+41      妙      miào   mysterious  subtle; exquisite
+42      彼      bǐ     that  there  those
+43      仿      fǎng   imitate  copy; as if
+44      闭      bì     shut  close; obstruct  block up
+45      庆      qìng   congratulate  celebrate
+46      泪      lèi    tears; weep  cry
+47      朗      lǎng   clear  bright; distinct
+48      尾      wěi    tail  extremity; end  stern
+49      偷      tōu    to steal  burglar  thief
+50      虫      chóng  insects  worms; KangXi radical 142
+51      淡      dàn    weak  watery; insipid  tasteless
+52      恨      hèn    hatred  dislike; resent  hate
+53      繁      fán    complicated  complex  difficult
+54      伴      bàn    companion  comrade  partner; accompany
+55      旦      dàn    dawn; morning; day
+56      潮      cháo   tide; moist  wet  damp; flow
+57      粮      liáng  food  grain  provisions
+58      缩      suō    contract  draw in  reduce
+59      挑      tiāo   a load carried on the shoulders; to carry
+60      灰      huī    ashes; dust; lime  mortar
+61      珍      zhēn   precious  valuable  rare
+62      幕      mù     curtain  screen  tent
+63      映      yìng   project; reflect light
+64      隔      gé     separate  partition
+65      启      qǐ     open; begin  commence; explain
+66      泛      fàn    to drift  float; careless  reckless
+67      偿      cháng  repay  recompense; restitution
+68      呆      dāi    dull; dull-minded  simple  stupid
+69      衡      héng   measure  weigh  judge  consider
+70      舍      shě    house  dwelling; dwell  reside
+71      婆      pó     old woman; grandmother
+72      灾      zāi    calamity  disaster  catastrophe
+73      胆      dǎn    gall bladder; bravery  courage
+74      俗      sú     social customs; vulgar  unrefined
+75      辩      biàn   dispute  argue  debate  discuss
+76      胸      xiōng  breast  bosom  chest; thorax
+77      劲      jìn    strong  unyielding  tough  power
+78      辑      jí     gather up  collect; edit  compile
+79      恢      huī    restore; big  great  immense  vast
+80      圈      quān   to circle; a circle; corral
+81      摸      mō     gently touch with hand; caress
+82      润      rùn    soft  moist; sleek; freshen
+83      堆      duī    heap  pile  crowd; pile up
+84      碰      pèng   collide  bump into
+85      废      fèi    abrogate  terminate  discard
+86      壁      bì     partition wall; walls of a house
+87      吹      chuī   blow; puff; brag  boast
+88      糊      hú     paste  stick on with paste
+89      盾      dùn    shield  shield-shaped object; currency sign for Dutch guilder
+90      乏      fá     lack; poor
+91      诊      zhěn   examine patient  diagnose
+92      摄      shè    take in  absorb; act as deputy
+93      凭      píng   lean on  depend on  rely on
+94      抢      qiǎng  plunder  rob  take by force
+95      绪      xù     end of thread; thread  clue
+96      肩      jiān   shoulders; to shoulder; bear
+97      幻      huàn   illusion  fantasy  mirage
+98      碎      suì    break  smash; broken  busted
+99      综      zōng   arrange threads for weaving
+100     返      fǎn    return  revert to  restore
+1       薄      báo    thin  slight  weak; poor  stingy
+2       悄      qiāo   silent  quiet  still; anxious
+3       敏      mǐn    fast  quick  clever  smart
+4       碍      ài     obstruct  hinder  block  deter
+5       矛      máo    spear  lance; KangXi radical 110
+6       幅      fú     piece  strip  breadth of  hem
+7       颗      kē     grain  kernel
+8       骂      mà     accuse  blame  curse  scold
+9       赏      shǎng  reward  grant  bestow; appreciate
+10      贴      tiē    paste to  stick on; attached to
+11      腰      yāo    waist; kidney
+12      眉      méi    eyebrows; upper margin of book
+13      恋      liàn   love; long for  yearn for; love
+14      吓      xià    scare  frighten; intimidate
+15      辞      cí     words  speech  expression  phrase
+16      尺      chǐ             
+17      辈      bèi    generation  lifetime; class
+18      滑      huá    slip  slide; slippery  polished
+19      绕      rào    entwine; wind around; surround
+20      趋      qū     hasten  hurry; be attracted to
+21      胁      xié    ribs  armpits; flank; threaten
+22      插      chā    insert  stick into; plant
+23      慧      huì    bright  intelligent; intelligence
+24      媒      méi    go-between  matchmaker; medium
+25      佩      pèi    belt ornament  pendant; wear at waist  tie to the belt; respect
+26      豪      háo    brave  heroic  chivalrous
+27      兼      jiān   unite  combine; connect; and
+28      跃      yuè    skip  jump  frolic
+29      肃      sù     pay respects; reverently
+30      驶      shǐ    sail  drive  pilot; fast  quick
+31      届      jiè    numerary adjunct for time  term
+32      欣      xīn    happy  joyous  delighted
+33      惠      huì    favor  benefit  confer kindness
+34      册      cè     book  volume  register  list
+35      飘      piāo   whirlwind  cyclone; floating
+36      闲      xián   fence  guard; defend; idle time
+37      频      pín    frequently  again and again
+38      递      dì     hand over  deliver; substitute
+39      撞      zhuàng knock against  bump into  collide
+40      滚      gǔn    turn     
+41      贡      gòng   offer tribute; tribute  gifts
+42      疯      fēng   crazy  insane  mentally ill
+43      瞧      qiáo   glance at  look at  see
+44      燃      rán    burn; light fire  ignite
+45      锁      suǒ    lock  padlock; shackles  chains
+46      劝      quàn   recommend  advise  urge
+47      搜      sōu    search  seek; investigate
+48      勤      qín    industrious  diligent  attentive
+49      戒      jiè    warn  caution  admonish
+50      驾      jià    to drive  sail  fly; a cart  carriage
+51      柔      róu    soft; gentle  pliant
+52      腐      fǔ     rot  decay  spoil; rotten
+53      幼      yòu    infant  young child; immature
+54      践      jiàn   trample  tread upon  walk on
+55      浓      nóng   thick  strong  concentrated
+56      竹      zhú    bamboo; flute; KangXi radical 118
+57      逻      luó    patrol; inspect; watch; patrol
+58      遵      zūn    obey  comply with  follow; honor
+59      饰      shì    decorate  ornament  adorn
+60      贷      dài    lend; borrow; pardon
+61      叙      xù     express  state  relate  narrate
+62      沟      gōu    ditch  drain  narrow waterway
+63      扶      fú     support  help; protect; hold on
+64      寿      shòu   old age  long life; lifespan
+65      询      xún    inquire into  ask about; consult
+66      匆      cōng   hastily  in haste  hurriedly
+67      奈      nài    but  how; bear  stand  endure
+68      慰      wèi    comfort  console  calm
+69      怨      yuàn   hatred  enmity  resentment
+70      躲      duǒ    hide  secrete; avoid  escape
+71      紫      zǐ     purple  violet; amethyst; surname
+72      艰      jiān   difficult  hard; distressing
+73      慌      huāng  nervous  panicky  frantic
+74      吐      tǔ     vomit  spew out  cough up
+75      咬      yǎo    bite  gnaw
+76      挤      jǐ     crowd  squeeze  push against
+77      弯      wān    bend  curve
+78      雾      wù     fog  mist  vapor  fine spray
+79      屈      qū     bend  flex; bent  crooked; crouch
+80      蛇      shé    snake    
+81      鼠      shǔ    rat  mouse; KangXi radical 208
+82      吨      dūn    metric ton; (Cant.) to babble  gibberish
+83      池      chí    pool  pond; moat; cistern
+84      冠      guān   cap  crown  headgear
+85      尘      chén   dust  dirt  ashes  cinders
+86      浅      qiǎn   shallow  not deep; superficial
+87      喷      pēn    spurt  blow out  puff out
+88      凌      líng   pure; virtuous; insult; maltreat
+89      赔      péi    indemnify  suffer loss
+90      涂      tú     surname; name of certain rivers
+91      亏      kuī    lose  fail; damage; deficient
+92      寂      jì     still  silent  quiet  desolate
+93      煤      méi    coal  coke  charcoal  carbon
+94      恭      gōng   respectful  polite  reverent
+95      湿      shī    wet  moist  humid  damp; illness
+96      秩      zhì    order; orderly; salary; decade
+97      宿      sù     stop  rest  lodge  stay overnight; constellation
+98      烂      làn    rotten  spoiled  decayed
+99      抖      dǒu    tremble  shake  rouse; give shake
+100     夹      jiā    be wedged or inserted between
+1       昆      kūn    elder brother; descendants
+2       猪      zhū    pig  hog  wild boar
+3       慎      shèn   act with care  be cautious
+4       玻      bō     glass    
+5       齿      chǐ    teeth; gears  cogs; age; simplified form of the KangXi radical number 211
+6       押      yā     mortgage  pledge; deposit; to pawn; to arrest  detain  guard
+7       漠      mò     desert; aloof  indifferent  cool
+8       疲      pí     feel tired  be exhausted; weak
+9       醉      zuì    intoxicated  drunk; addicted to
+10      拳      quán   fist; various forms of boxing
+11      斜      xié    slanting  sloping  inclined
+12      档      dàng   shelf; frame  crosspiece
+13      豆      dòu    beans  peas; bean-shaped
+14      涨      zhǎng  rise in price
+15      拼      pīn    join together  link  incorporate
+16      歇      xiē    rest  stop  lodge
+17      桃      táo    peach; marriage; surname
+18      嘉      jiā    excellent; joyful; auspicious
+19      俊      jùn    talented  capable; handsome
+20      乙      yǐ     second; 2nd heavenly stem
+21      妨      fáng   interfere with  impede  obstruct
+22      挣      zhēng  strive  endeavor  struggle
+23      览      lǎn    look at  inspect; perceive
+24      璃      lí     glass    
+25      滴      dī     drip; drop of water
+26      姿      zī              
+27      丑      chǒu   clown  comedian; 2nd terrestrial branch
+28      劣      liè    bad  inferior; slightly
+29      匹      pǐ     bolt of cloth; counter for horses
+30      俱      jù     all  together; accompany
+31      蜂      fēng   bee  wasp  hornet
+32      糟      zāo    sediment  dregs; pickle
+33      谨      jǐn    prudent  cautious; attentive
+34      苗      miáo   sprouts; Miao nationality
+35      肠      cháng  intestines; emotions; sausage
+36      挡      dǎng   obstruct  impede; stop; resist
+37      纲      gāng   heavy rope  hawser; main points
+38      肌      jī     muscle tissue; meat on bones
+39      膀      bǎng   upper arm; shoulder; wing
+40      卧      wò     lie down; crouch
+41      欠      qiàn   owe  lack  be deficient; KangXi radical number 76
+42      夸      kuā    extravagant  luxurious; handsome
+43      豫      yù     relaxed  comfortable  at ease
+44      胃      wèi    stomach; gizzard of fowl
+45      睁      zhēng  open eyes; stare
+46      铃      líng   bell     
+47      吻      wěn    kiss; the lips; coinciding
+48      脆      cuì    crisp; fragile  frail; brittle
+49      柴      chái   firewood  faggots  fuel
+50      绳      shéng  rope  string  cord; control
+51      眠      mián   close eyes  sleep; hibernate
+52      傻      shǎ    foolish  silly  stupid; an imbecile
+53      扇      shàn   fan; door panel
+54      柜      guì    cabinet  cupboard; shop counter
+55      拦      lán    obstruct  impede  bar  hinder
+56      夕      xī     evening  night  dusk; slanted
+57      姻      yīn    relatives by marriage
+58      氛      fēn    gas  vapor  air
+59      蜜      mì     honey; sweet; nectar
+60      摘      zhāi   pluck  pick; select; specify
+61      披      pī     wear; split; crack
+62      辅      fǔ     cheek bone; protective; assist
+63      盆      pén    basin  tub  pot  bowl
+64      吵      chǎo   argue  dispute; disturb  annoy
+65      嗯      ń      final particle
+66      骤      zhòu   procedure; gallop; sudden(ly)
+67      漏      lòu    leak  drip; funnel; hour glass
+68      悠      yōu    long  far  remote  distant; liesurely
+69      滩      tān    bank  a sandbar  shoal; rapids
+70      嫁      jià    to marry  give a daughter in marriage
+71      催      cuī    press  urge
+72      翅      chì    wings; fin
+73      锅      guō    cooking-pot  saucepan
+74      拆      chāi   to break up  split apart  rip open; to destroy
+75      棋      qí     chess; any game similar to chess
+76      唉      āi     alas  exclamation of surprise or pain
+77      孕      yùn    be pregnant  pregnancy
+78      链      liàn   chain  wire  cable; chain  shack
+79      艳      yàn    beautiful  sexy  voluptuous
+80      臭      chòu   smell  stink  emit foul odor
+81      趁      chèn   take advantage of  avail oneself
+82      愁      chóu   anxiety; to worry about  be anxious
+83      孝      xiào   filial piety  obedience; mourning
+84      冻      dòng   freeze; cold  congeal; jelly
+85      闯      chuǎng rush in  burst in  charge in
+86      宴      yàn    to entertain  feast; a feast  banquet
+87      矩      jǔ              
+88      胶      jiāo   glue  gum  resin  rubber; sound; shin bone
+89      盼      pàn    look  gaze; expect  hope for
+90      脖      bó     neck     
+91      虹      hóng   rainbow  
+92      账      zhàng  accounts; bill  debt; credit
+93      倡      chàng  guide  leader; lead  introduce
+94      猴      hóu    monkey  ape; monkey-like
+95      寓      yù     residence; lodge; dwell
+96      狮      shī    lion     
+97      抄      chāo   copy  confiscate  seize
+98      晕      yūn    halo in sky; fog; dizzy  faint
+99      砍      kǎn    hack  chop  cut  fell
+100     剪      jiǎn   scissors; cut  divide  separate
+1       叉      chā    crotch; fork  prong
+2       拐      guǎi   kidnap  abduct; turn
+3       捐      juān   contribute; give up  renounce
+4       歪      wāi    slant; inclined; askewd  awry
+5       粘      zhān   viscous  mucous; glutinous
+6       陌      mò     foot path between rice fields
+7       窄      zhǎi   narrow  tight; narrow-minded
+8       鞭      biān   whip; whip; string of firecrackers
+9       厘      lí     thousandth part of tael
+10      厦      shà    big building  mansion
+11      恳      kěn    sincere  earnest  cordial
+12      憾      hàn    to regret  remorse; dissatisfied
+13      摔      shuāi  fall ground  stumble  trip
+14      愧      kuì    ashamed  conscience-stricken
+15      洒      sǎ     sprinkle; scatter; pour; to wipe away; to shiver
+16      哎      āi     interjection of surprise
+17      钓      diào   fish; fishhook; tempt  lure
+18      蝶      dié    butterfly
+19      讽      fěng   recite  incant; satirize
+20      旬      xún    ten-day period; period of time
+21      撕      sī     rip  tear; buy cloth
+22      谦      qiān   humble  modest
+23      兔      tù     rabbit  hare
+24      荐      jiàn   repeat  reoccur; recommend
+25      炭      tàn    charcoal; coal; carbon
+26      舅      jiù             
+27      裹      guǒ    wrap  bind; encircle  confine
+28      瞎      xiā    blind  reckless; rash
+29      咨      zī     inquire  consult  discuss; plan
+30      宠      chǒng  favorite  concubine; favor
+31      兑      duì    cash; exchange
+32      霉      méi    mildew  mold; moldy  mildewed
+33      塘      táng   pond; tank; dike  embankment
+34      帘      lián   flag-sign of a tavern
+35      厢      xiāng  side-room  wing; theatre box
+36      乖      guāi   rebel; crafty  shrewd
+37      娱      yú     pleasure  enjoyment  amusement
+38      娶      qǔ     marry  take wife
+39      嗓      sǎng   voice; throat
+40      蹲      dūn    squat  crouch; idle about
+41      淘      táo    wash in sieve; weed out
+42      嫩      nèn    soft  tender  delicate; young
+43      壶      hú     jar  pot  jug  vase; surname
+44      傍      bàng   by side of  beside  near  close
+45      勿      wù     must not  do not; without  never
+46      踩      cǎi    step on  
+47      煮      zhǔ    cook     
+48      逗      dòu    tempt  allure  arouse  stir
+49      炒      chǎo   fry  saute  roast  boil  cook
+50      寞      mò     silent  still  lonely  solitary
+51      甩      shuǎi  throw away  discard
+52      燥      zào    dry  parched  arid; quick-tempered
+53      晒      shài   dry in sun  expose to sun
+54      屿      yǔ     island   
+55      绸      chóu   silk cloth  satin damask
+56      痒      yǎng   itch     
+57      耽      dān    indulge in; be negligent
+58      魅      mèi    kind of forest demon  elf
+59      狡      jiǎo   cunning  deceitful  treacherous
+60      匀      yún    equal    
+61      熬      áo     cook down  to boil; endure
+62      毯      tǎn    rug  carpet  blanket
+63      梳      shū    comb; brush
+64      蔬      shū    vegetables  greens
+65      捡      jiǎn   to pick up
+66      删      shān   to cut; delete
+67      浏      liú    clear; bright; whistling
+68      裔      yì     progeny  descendants  posterity
+69      浇      jiāo   spray  water  sprinkle
+70      姥      lǎo    maternal grandmother; midwife
+71      烫      tàng   scald  heat; wash; iron clothes
+72      惭      cán    ashamed  humiliated; shameful
+73      蝴      hú     butterfly
+74      梨      lí     pear; opera; cut  slash
+75      醋      cù     vinegar; jealousy  envy
+76      猾      huá    crafty  cunning  shrewd; deceitful
+77      皂      zào    soap; black; menial servant
+78      酱      jiàng  any jam-like or paste-like food
+79      糙      cāo    coarse  harsh  rough  unpolished rice
+80      屉      tì     drawer; tray; pad; screen
+81      髦      máo    flowing hair of young child
+82      椒      jiāo   pepper  spices
+83      桔      jú     Chinese bellflower; well-swept; the inner fibers of corn-stalks
+84      馒      mán    steamed bread; steamed dumplings
+85      嚏      tì     sneeze   
+86      斯      sī     this  thus  such; to lop off; emphatic particle
+87      党      dǎng   political party  gang  faction
+88      陈      chén   exhibit  display; plead; a surname
+89      攻      gōng   attack  assault; criticize
+90      苏      sū              
+91      帝      dì     supreme ruler  emperor; god
+92      若      ruò    if  supposing  assuming; similar
+93      波      bō     waves  breakers; undulations
+94      异      yì     different  unusual  strange
+95      策      cè     scheme  plan; to whip; urge
+96      罪      zuì    crime  sin  vice; evil; hardship
+97      州      zhōu   administrative division  state
+98      宗      zōng   lineage  ancestry; ancestor  clan
+99      协      xié    be united; cooperate
+100     审      shěn   examine  investigate; judge
+1       皇      huáng  royal  imperial; ruler  superior
+2       副      fù     assist; supplement; assistant
+3       抗      kàng   resist  oppose  defy  reject
+4       犯      fàn    commit crime  violate; criminal
+5       田      tián   field  arable land  cultivated
+6       央      yāng   center  conclude  run out; beg
+7       伯      bó              
+8       监      jiān   supervise  control  direct
+9       露      lù     dew; bare  open  exposed
+10      野      yě     open country  field; wilderness
+11      舰      jiàn   warship  
+12      湾      wān    bay  cove  inlet  bend of stream
+13      吉      jí     lucky  propitious  good
+14      剑      jiàn   sword  dagger  saber
+15      亦      yì     also  too; likewise
+16      恩      ēn     kindness  mercy  charity
+17      鲁      lǔ     foolish  stupid  rash; vulgar
+18      端      duān   end  extreme; head; beginning
+19      探      tàn    find  locate; search  grope for
+20      湖      hú     a lake; Hubei  Hunan; bluish-green
+21      予      yǔ     I  me; to give
+22      港      gǎng   port  harbor; small stream; bay
+23      额      é      forehead; tablet  plaque; fixed
+24      督      dū     supervise  oversee  direct
+25      泽      zé     marsh  swamp; grace  brilliance
+26      灭      miè    extinguish; wipe out  exterminate
+27      莫      mò     do not  is not  can not; negative
+28      亡      wáng   death  destroyed; lose  perish
+29      圣      shèng  holy  sacred
+30      诺      nuò    promise; assent  approve
+31      伦      lún    normal human relationships
+32      奥      ào     mysterious  obscure  profound
+33      唐      táng   Tang dynasty; Chinese
+34      堂      táng   hall; government office
+35      宫      gōng   palace   
+36      君      jūn    sovereign  monarch  ruler  chief  prince
+37      谋      móu    plan  scheme; strategem
+38      镇      zhèn   town  market place; suppress
+39      凡      fán    all  any  every; ordinary  common
+40      诸      zhū    various  all  these; surname
+41      庄      zhuāng village  hamlet; villa  manor
+42      祖      zǔ     ancestor  forefather; grandfather
+43      暴      bào    violent  brutal  tyrannical
+44      塔      tǎ     tower  spire  tall building
+45      隐      yǐn    hide  conceal; hidden  secret
+46      蒙      méng   cover; ignorant; suffer; mongolia
+47      欲      yù     desire  want  long for; intend
+48      遭      zāo    come across  meet with  encounter
+49      徒      tú     disciple  follower; go on foot
+50      姆      mǔ              
+51      曲      qū     crooked  bent; wrong  false
+52      塞      sāi    stop up  block  seal  cork; pass  frontier; fortress
+53      侵      qīn    invade  encroach upon  raid
+54      刑      xíng   punishment  penalty; law
+55      谷      gǔ     valley  gorge  ravine
+56      川      chuān  stream  river; flow; boil
+57      潜      qián   hide; hidden  secret  latent
+58      抵      dǐ     resist  oppose; deny; off-set
+59      杰      jié    hero; heroic  outstanding
+60      郑      zhèng           
+61      混      hùn    to mix  blend  mingle; to bumble along
+62      臣      chén   minister  statesman  official
+63      雅      yǎ     elegant  graceful  refined
+64      盛      shèng  abundant  flourishing; contain; fill
+65      怒      nù     anger  rage  passion; angry
+66      残      cán    injure  spoil; oppress; broken
+67      宇      yǔ     house; building  structure; eaves
+68      猛      měng   violent  savage  cruel; bold
+69      毁      huǐ    destroy  
+70      盟      méng   swear; oath  covenant  alliance
+71      丁      dīng   male adult; robust  vigorous; 4th heavenly stem
+72      魔      mó     demon  evil spirits; magic power
+73      沿      yán    follow a course  go along
+74      啦      la     final particle of assertion
+75      瓦      wǎ     tile; earthenware pottery; girl
+76      援      yuán   aid  assist; lead; cite
+77      夺      duó    take by force  rob  snatch
+78      偏      piān   inclined one side; slanting
+79      袭      xí     raid  attack; inherit
+80      侠      xiá    chivalrous person; knight-errant
+81      侧      cè     side; incline  slant  lean
+82      债      zhài   debt  loan  liabilities
+83      融      róng   melt  fuse; blend  harmonize
+84      纵      zòng   indulge in  give free reign to
+85      障      zhàng  separate; shield; barricade
+86      讯      xùn    inquire; ask; examine; reproach
+87      涉      shè    ford stream  wade across
+88      刊      kān    publication  periodical; publish
+89      爆      bào    crackle  pop  burst  explode
+90      乌      wū     crow  rook  raven; black  dark
+91      役      yì     service; a servant  laborer; to serve
+92      患      huàn   suffer  worry about; suffering
+93      仙      xiān   Taoist super-being  transcendent  immortal
+94      症      zhèng  disease  illness  ailment
+95      倾      qīng   upset  pour out  overflow
+96      陷      xiàn   submerge  sink  plunge; trap
+97      轰      hōng   rumble  explosion  blast
+98      撤      chè    omit; remove; withdraw
+99      疾      jí     illness  disease  sickness; to hate
+100     缘      yuán   hem  margin; reason  cause; fate
+1       杜      dù     stop  prevent; restrict; surname
+2       仪      yí     ceremony  rites gifts; admire
+3       奔      bēn    run fast  flee; rush about; run
+4       珠      zhū    precious stone  gem  jewel  pearl
+5       驻      zhù    to be stationed at  reside at; to stop
+6       孔      kǒng   opening  hole  orifice; great
+7       翼      yì     wings; fins on fish; shelter
+8       叹      tàn    sigh  admire
+9       愈      yù     more and more  even more
+10      罢      bà     cease  finish  stop; give up
+11      径      jìng   narrow path; diameter; direct
+12      恰      qià    just  exactly  precisely; proper
+13      捕      bǔ     arrest  catch  seize
+14      裂      liè    split  crack  break open; rend
+15      泰      tài    great  exalted  superior; big
+16      尖      jiān   sharp  pointed  acute  keen
+17      忠      zhōng  loyalty  devotion  fidelity
+18      炎      yán    flame  blaze; hot
+19      荒      huāng  wasteland  desert; uncultivated
+20      横      héng   across   
+21      孤      gū     orphan  fatherless; solitary
+22      胞      bāo    womb  placenta  fetal membrane
+23      魂      hún    soul  spirit
+24      洪      hóng   vast  immense; flood  deluge
+25      津      jīn    ferry; saliva; ford
+26      晓      xiǎo   dawn  daybreak; clear  explicit
+27      仁      rén    humaneness  benevolence  kindness
+28      贫      pín    poor  impoverished  needy
+29      赖      lài    rely  depend on; accuse falsely
+30      仰      yǎng   raise the head to look; look up to  rely on  admire
+31      艇      tǐng   small boat  dugout  punt
+32      凶      xiōng  culprit; murder; bad  sad
+33      署      shǔ    public office
+34      御      yù     drive  ride; chariot; manage
+35      奉      fèng   offer; receive; serve; respect
+36      旋      xuán   revolve  move in orbit; return
+37      晨      chén   early morning  daybreak
+38      伏      fú     crouch  crawl  lie hidden  conceal
+39      隆      lóng   prosperous  plentiful  abundant
+40      奴      nú     slave  servant
+41      丧      sàng   mourning; mourn; funeral
+42      渡      dù     cross  ferry over; ferry
+43      旗      qí     banner  flag  streamer
+44      甘      gān    sweetness; sweet  tasty
+45      扎      zhā    pull up; pierce; struggle free
+46      梁      liáng  bridge; beam; rafters; surname
+47      皆      jiē    all  every  everybody
+48      宙      zhòu   time as concept; infinite time
+49      岩      yán    cliff; rocks; mountain
+50      荡      dàng   pond  pool; wash away  cleanse
+51      蒂      dì     peduncle or stem of plants
+52      井      jǐng   well  mine shaft  pit
+53      壮      zhuàng big  large; robust; name of tribe
+54      殖      zhí    breed  spawn; increase; prosper
+55      霍      huò    quickly  suddenly; surname
+56      撒      sā     release  cast away  let go; disperse; relax
+57      液      yè     sap  juice  liquid  fluid
+58      番      fān    to take turns; a turn  a time; to repeat
+59      郎      láng   gentleman  young man; husband
+60      忧      yōu    sad  grieved; grief  melancholy
+61      浮      fú     to float  drift  waft; to exceed; superfluous
+62      艘      sōu    counter for ships  vessels
+63      伍      wǔ     five  company of five; troops
+64      峰      fēng   peak  summit; hump of camel
+65      黎      lí     surname; numerous  many; black
+66      贯      guàn   a string of 1000 coins; to go through
+67      侦      zhēn   spy  reconnoiter; detective
+68      券      quàn   certificate  ticket; title deeds
+69      崇      chóng  esteem  honor  revere  venerate
+70      宪      xiàn   constitution  statute  law
+71      慈      cí     kind  charitable  benevolent
+72      枝      zhī    branches  limbs; branch off
+73      拖      tuō    drag  tow  haul; delay  prolong
+74      墨      mò     ink; writing
+75      箭      jiàn   arrow; type of bamboo
+76      泥      ní     mud  mire; earth  clay; plaster
+77      粉      fěn    powder  face powder; plaster
+78      氏      shì    clan  family; mister
+79      拔      bá     uproot  pull out
+80      愤      fèn    resent  hate; indignant
+81      扑      pū     pound  beat  strike; attack
+82      驱      qū     spur a horse on; expel  drive away
+83      掩      yǎn    to cover (with the hand); shut  conceal; ambush
+84      尸      shī    corpse; to impersonate the dead; to preside; KangXi radical 44
+85      堡      bǎo    fort  fortress; town  village
+86      储      chǔ    save money  store  reserve; heir
+87      桑      sāng   mulberry tree; surname
+88      惨      cǎn    sad  pitiful  wretched; cruel
+89      洁      jié    clean  purify  pure
+90      踪      zōng   footprints  traces  tracks
+91      勃      bó     suddenly  sudden  quick
+92      仇      chóu   enemy  hate  hatred  enmity
+93      磨      mó     grind; polish; rub; wear out; a millstone
+94      拟      nǐ     draft; intend  plan  propose
+95      奏      zòu    memorialize emperor; report
+96      巡      xún    patrol  go on circuit  cruise
+97      剂      jì     medicinal preparation
+98      坡      pō     slope  bank  hillside
+99      截      jié    cut off  stop  obstruct  intersect
+100     焦      jiāo   burned  scorched; anxious  vexed
+1       殿      diàn   hall; palace; temple
+2       伪      wěi    false  counterfeit  bogus
+3       逼      bī     compel  pressure  force; bother
+4       颇      pō     lean one side; very  rather
+5       昏      hūn    dusk  nightfall  twilight  dark
+6       呈      chéng  submit  show; appear; petition
+7       牧      mù     tend cattle  shepherd
+8       牲      shēng  sacrificial animal; animal
+9       佳      jiā    good  auspicious; beautiful; delightful
+10      稿      gǎo    draft  manuscript  rough copy
+11      腹      fù     stomach  belly  abdomen; inside
+12      跌      diē    stumble  slip  fall down; stamp
+13      垂      chuí   let down; suspend  hand; down
+14      脉      mài    blood vessels  veins  arteries
+15      狱      yù     prison  jail; case; lawsuit
+16      惑      huò    confuse  mislead  baffle; doubt
+17      陶      táo    pottery  ceramics
+18      兽      shòu   beast  animal; bestial
+19      帐      zhàng  tent; screen  mosquito net
+20      昌      chāng  light of sun; good  proper
+21      铺      pù     shop  store; place sleep  bed
+22      惧      jù     fear  be afraid of  dread
+23      盗      dào    rob  steal; thief  bandit
+24      辉      huī    brightness  luster  brilliance
+25      扣      kòu    knock  strike  rap  tap; button
+26      嘛      ma     final exclamatory particle
+27      董      dǒng   direct  supervise; surname
+28      迁      qiān   move  shift  change; transfer; relocate a capital city
+29      凝      níng   coagulate; congeal; freeze
+30      腾      téng   fly; gallop; run; prance; rise
+31      埋      mái    bury  secrete  conceal
+32      涌      yǒng   surge up  bubble up  gush forth
+33      辖      xiá    linchpin of wheel; control
+34      晋      jìn    advance  increase; promote
+35      狠      hěn    vicious  cruel; severely  extreme
+36      鉴      jiàn   mirror  looking glass; reflect
+37      械      xiè    weapons; implements  instruments
+38      赤      chì             
+39      割      gē     cut  divide  partition; cede
+40      揭      jiē    raise  lift up; surname
+41      悟      wù     to apprehend  realize  become aware
+42      锋      fēng   point of spear  sharp point
+43      祥      xiáng  good luck  good omen; happiness
+44      阔      kuò    broad  ample  wide; be apart
+45      誉      yù     fame  reputation; praise
+46      筹      chóu   chip  tally  token; raise money
+47      丛      cóng   bush  shrub; thicket; collection
+48      牵      qiān   drag  pull  lead by hand
+49      鸣      míng   cry of bird or animal; make sound
+50      旨      zhǐ    purpose  aim; excellent
+51      袖      xiù    sleeve; put something in sleeve
+52      猎      liè    hunt; field sports
+53      臂      bì     arm      
+54      柱      zhù    pillar  post; support; lean on
+55      抛      pāo    throw (away)
+56      牢      láo    prison; stable  pen; secure
+57      逊      xùn    humble  modest; yield
+58      迈      mài    take a big stride; pass by
+59      欺      qī     cheat  double-cross  deceive
+60      衰      shuāi  decline  falter  decrease; weaken
+61      诱      yòu    persuade  entice  induce; guide
+62      狼      láng   wolf     
+63      仗      zhàng  rely upon; protector; fight; war  weaponry
+64      粒      lì     grain; small particle
+65      遥      yáo    far away  distant  remote
+66      抚      fǔ     pat  console  comfort; pacify
+67      纠      jiū    investigate  inspect
+68      钻      zuān   drill  bore; pierce; diamond
+69      晶      jīng   crystal; clear  bright; radiant
+70      岂      qǐ     how? what?
+71      峡      xiá    gorge  strait  ravine; isthmus
+72      苍      cāng   blue; green
+73      耗      hào    consume  use up; waste  squander
+74      菌      jūn    mushroom; germ  microbe
+75      粹      cuì    pure; unadulterated; select
+76      扁      biǎn   flat; tablet  signboard
+77      循      xún    obey  comply with  follow
+78      赋      fù     tax; give; endow; army; diffuse
+79      抑      yì     press down  repress; curb  hinder
+80      哀      āi     sad  mournful  pitiful; pity
+81      踏      tà     step on  trample  tread on  walk
+82      恒      héng   constant  regular  persistent
+83      纽      niǔ    knot; button; handle  knob; tie
+84      纹      wén    line  streak  stripe; wrinkle
+85      渔      yú     to fish; seize; pursue; surname
+86      磁      cí     magnetic; magnetism; porcelain
+87      铜      tóng   copper  brass  bronze
+88      跨      kuà    straddle  bestride  ride; carry
+89      怖      bù     terror  fear; frighten; terrified
+90      叛      pàn    rebel; rebellion; rebellious
+91      遣      qiǎn   send  dispatch; send off  exile
+92      弥      mí     extensive  full; fill; complete
+93      稀      xī     rare  unusual  scarce; sparse
+94      捷      jié    win  victory  triumph
+95      疫      yì     epidemic  plague  pestilence
+96      肿      zhǒng  swell; swollen; swelling
+97      削      xuē    scrape off  pare  trim
+98      岗      gǎng   post; position
+99      晃      huǎng  bright  dazzling; to sway  shake
+100     吞      tūn    swallow; absorb  annex  engulf
+1       宏      hóng   wide  spacious  great  vast
+2       癌      ái     cancer; marmoset
+3       隶      lì     subservient; servant; KangXi radical 171
+4       履      lǚ     footwear  shoes; walk on  tread
+5       耀      yào    shine  sparkle  dazzle; glory
+6       扭      niǔ    turn  twist  wrench; seize  grasp
+7       坛      tán    altar; arena  examination hall
+8       拨      bō     move; dispel; distribute
+9       沃      wò     water  irrigate; fertile  rich
+10      绘      huì    draw  sketch  paint
+11      伐      fá     cut down  subjugate  attack
+12      堪      kān    adequately capable of  worthy of
+13      牺      xī     sacrifice  give up; sacrificial
+14      墓      mù     grave  tomb
+15      雇      gù     employ  to hire
+16      廉      lián   upright  honorable  honest
+17      惩      chéng  punish  reprimand; warn
+18      捉      zhuō   grasp  clutch; catch  seize
+19      覆      fù     cover; tip over; return; reply
+20      劫      jié    take by force  coerce; disaster
+21      嫌      xián   hate  detest; suspect; criticize
+22      雕      diāo   engrave  inlay  carve; exhaust; used for 鵰 an eagle  vulture
+23      闷      mèn    gloomy  depressed  melancholy
+24      乳      rǔ     breast  nipples; milk  suckle
+25      串      chuàn  string; relatives; conspire
+26      娃      wá     baby; doll; pretty girl
+27      缴      jiǎo   deliver  submit; hand over
+28      唤      huàn   call     
+29      霸      bà     rule by might rather than right
+30      妥      tuǒ    satisfactory  appropriate
+31      搭      dā     join together  attach to; add to
+32      赴      fù     go to; attend  be present
+33      岳      yuè    mountain peak; surname
+34      舱      cāng   hold of ship; cabin
+35      庞      páng   disorderly  messy; huge  big
+36      耕      gēng   plow  cultivate
+37      锐      ruì    sharp  keen  acute  pointed
+38      缝      fèng   sew  mend
+39      宅      zhái   residence  dwelling  home; grave
+40      斥      chì    to scold  upbraid  accuse  reproach
+41      添      tiān   append  add to; increase
+42      挖      wā     dig  dig out  gouge out  scoop
+43      呵      ā      scold; laughing sound; yawn
+44      讼      sòng   accuse; argue  dispute; litigate
+45      氧      yǎng   oxygen   
+46      酷      kù     strong  stimulating; very
+47      掠      lüè    rob  ransack  plunder; pass by
+48      祸      huò    misfortune  calamity  disaster
+49      贪      tān    be greedy  covet; covetous
+50      悬      xuán   hang  suspend  hoist; be hung
+51      唇      chún   lips     
+52      仓      cāng   granary; berth; sea
+53      轨      guǐ    track  rut  path
+54      枚      méi    stalk of shrub  trunk of tree
+55      庙      miào   temple  shrine; imperial court
+56      屏      píng   folding screen  shield
+57      寺      sì     court  office; temple  monastery
+58      愚      yú     stupid  doltish  foolish
+59      疏      shū    neglect; careless  lax
+60      颤      chàn   shiver  tremble; trembling
+61      寸      cùn    inch; small  tiny; KangXi radical 41
+62      盯      dīng   rivet gaze upon  keep eyes on
+63      辱      rǔ     humiliate  insult  abuse
+64      辨      biàn   distinguish  discriminate
+65      哦      ó      oh? really? is that so?
+66      腔      qiāng  chest cavity; hollow in body
+67      郁      yù     sweet smelling  rich in aroma; (Cant.) to move  hit
+68      溃      kuì    flooding river; militarily defeat
+69      忌      jì     jealous  envious; fear
+70      溜      liū    slide  glide  slip; slippery
+71      笼      lóng   cage; cage-like basket
+72      丘      qiū    hill; elder; empty; a name
+73      滋      zī     grow  multiply  increase; thrive
+74      壳      ké     casing  shell  husk
+75      痕      hén    scar; mark; trace
+76      穴      xué    cave  den  hole; KangXi radical 116
+77      卓      zhuō   profound  brilliant  lofty
+78      贤      xián   virtuous  worthy  good; able
+79      膜      mó     membrane; to kneel and worship
+80      毅      yì     resolute  decisive  firm  persist
+81      锦      jǐn    brocade  tapestry; embroidered
+82      茫      máng   vast  boundless  widespread
+83      昂      áng    rise  raise; proud  bold; upright
+84      皱      zhòu   wrinkles  creases  folds
+85      舌      shé    tongue; clapper of bell; KangXi radical 135
+86      剥      bō     peel     
+87      窝      wō     nest; cave  den; hiding place
+88      携      xié    lead by hand  take with; carry
+89      陵      líng   hill  mound; mausoleum
+90      哼      hēng   hum; sing softly; groan  moan; (Cant.) an interjecting indicating disapproval
+91      棉      mián   cotton; cotton padded
+92      饲      sì     raise animals; feed; nourish
+93      逆      nì     disobey  rebel; rebel  traitor
+94      喘      chuǎn  pant  gasp  breathe heavily
+95      罩      zhào   basket for catching fish; cover
+96      炉      lú     fireplace  stove  oven  furnace
+97      胎      tāi    unborn child  embryo  fetus
+98      蓄      xù     store  save  hoard  gather
+99      竭      jié    put forth great effort; exhaust
+100     浑      hún    muddy  turbid; blend  merge  mix
+1       悦      yuè    pleased  contented  gratified
+2       诞      dàn    bear children  give birth; birth
+3       泡      pào    bubbles  suds; blister; soak
+4       贼      zéi    thief  traitor; kill
+5       亭      tíng   pavilion; erect
+6       酬      chóu   toast; reward  recompense
+7       儒      rú     Confucian scholar
+8       泄      xiè    leak; vent; flow; reveal
+9       杆      gān    pole; shaft of spear
+10      挨      āi     near  close by  next to  towards  against; to wait; to lean on
+11      吟      yín    sing  hum; recite; type of poetry
+12      狭      xiá    narrow  limited; narrow-minded
+13      肖      xiào   look like  resemble  be like
+14      霞      xiá    rosy clouds
+15      驳      bó     varicolored  variegated; mixed
+16      裕      yù     abundant  rich  plentiful
+17      顽      wán    obstinate  stubborn; recalcitrant
+18      畜      chù    livestock  domestic animals
+19      咽      yàn    throat; pharynx
+20      勾      gōu    hook  join  connect; entice
+21      疆      jiāng  boundary  border  frontier
+22      赌      dǔ     bet  gamble  wager; compete
+23      畏      wèi    fear  dread  awe  reverence
+24      泊      pō     anchor vessel; lie at anchor
+25      肺      fèi    lungs    
+26      缠      chán   wrap  wind around; tie  bind
+27      瞪      dèng   stare at 
+28      吊      diào   condole  mourn  pity; hang
+29      斑      bān    mottled  striped  freckle
+30      涛      tāo    large waves
+31      俘      fú     prisoner of war; take as prisoner
+32      卑      bēi    humble  low  inferior; despise
+33      葬      zàng   bury  inter
+34      铭      míng   inscribe  engrave
+35      蛮      mán    barbarians; barbarous  savage
+36      歧      qí     fork of road; branching off
+37      廊      láng   corridor  porch  veranda
+38      灌      guàn   pour; water; irrigate  flood
+39      勉      miǎn   endeavor  make effort; urge
+40      盲      máng   blind; unperceptive  shortsighted
+41      宰      zǎi    to slaughter; to rule
+42      啥      shà    what?    
+43      胀      zhàng  swell  inflate  expand
+44      扯      chě    rip up  tear down; raise; haul
+45      辽      liáo   distant  far
+46      抹      mǒ     smear  apply  wipe off  erase
+47      筒      tǒng   thick piece of bamboo; pipe
+48      朴      pǔ     simple  unadorned; sincere; surname; a tree
+49      咐      fù     instruct  order
+50      誓      shì    swear  pledge; oath
+51      喉      hóu    throat  gullet  larynx; guttural
+52      妄      wàng   absurd  foolish  reckless; false
+53      拘      jū     restrain  seize  detain
+54      驰      chí    go quickly or swiftly; hurry
+55      栏      lán    railing  balustrade; animal pan
+56      逝      shì    pass away; die
+57      窃      qiè    secretly  stealthily; steal; thief
+58      纤      xiān   fine  delicate; minute; graceful
+59      盈      yíng   fill; full  overflowing; surplus
+60      瞬      shùn   wink  blink; in a wink  a flash
+61      婴      yīng   baby  infant; bother
+62      颈      jǐng   neck  throat
+63      倘      tǎng   if  supposing  in event of
+64      蔽      bì     cover  hide  conceal; shelter
+65      畅      chàng  smoothly  freely  unrestrained
+66      赠      zèng   give present; bestow  confer
+67      跪      guì    kneel    
+68      颠      diān   top  peak  summit; upset
+69      遮      zhē    cover  shield  protect
+70      吁      xū              
+71      辟      pì     law  rule; open up  develop
+72      瘤      liú    tumor  lump  goiter
+73      嫂      sǎo             
+74      框      kuāng  frame; framework; door frame
+75      钦      qīn    respect  admire; respectful
+76      庸      yōng   usual  common  ordinary  mediocre
+77      吼      hǒu    roar  shout; bark  howl
+78      摊      tān    spread out  open; apportion
+79      嘱      zhǔ    order  tell  instruct  leave word
+80      衷      zhōng           
+81      娇      jiāo   seductive and loveable; tender
+82      讶      yà     express surprise  be surprised
+83      耸      sǒng   urge on; rise up; stir  excite
+84      摧      cuī    destroy  break  injure
+85      薪      xīn    fuel  firewood; salary
+86      淋      lín    drip  soak  drench; perfectly
+87      耻      chǐ    shame  humiliation; ashamed
+88      饥      jī     hunger  starving; hungry; a famine
+89      崩      bēng   rupture  split apart  collapse
+90      逢      féng   come upon  happen meet; flatter
+91      撑      chēng  prop up  support; brace
+92      翔      xiáng  soar  glide  hover; detailed
+93      枯      kū     dried out  withered  decayed
+94      凑      còu    piece together  assemble
+95      溪      xī     mountain stream  creek
+96      蠢      chǔn   wriggle; stupid; silly; fat
+97      阐      chǎn   explain  clarify  elucidate
+98      旺      wàng   prosper; prosperous; increase
+99      碑      bēi    stone tablet; gravestone
+100     挪      nuó    move  shift on one side
+1       脂      zhī    fat  grease  lard; grease
+2       谎      huǎng  lie      
+3       慨      kǎi    sigh  regret; generous
+4       掘      jué    dig  excavate; excavate cave
+5       逮      dǎi    seize  catch; reach  arrive
+6       掏      tāo    take out; pull out; clean out
+7       晰      xī     clear  evident; clearly
+8       罕      hǎn    rare  scarce; surname
+9       挽      wǎn    pull; pull back  draw back
+10      舟      zhōu   boat  ship; KangXi radical 137
+11      骚      sāo    harass  bother  annoy  disturb
+12      拓      tà     expand; open up; support or push
+13      坑      kēng   pit  hole; bury  trap; harry
+14      兆      zhào   omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion
+15      崖      yá     cliff  precipice; precipitous
+16      刹      shā    temple  shrine  monastary
+17      芒      máng   Miscanthus sinensis
+18      筋      jīn    muscles; tendons
+19      棍      gùn    stick  cudgel; scoundrel
+20      钩      gōu    hook  barb; sickle; stroke with
+21      嚷      rǎng   shout  brawl  make uproar  cry
+22      弦      xián   string; hypotenuse  crescent
+23      焰      yàn    flame  blaze; glowing  blazing
+24      耍      shuǎ   frolic  play  amuse  play with
+25      俯      fǔ     bow down  face down  look down
+26      愣      lèng   be in a daze
+27      饶      ráo    bountiful  abundant  plentiful
+28      钉      dīng   nail  spike; pursue closely
+29      叠      dié    pile; be piled up; fold up
+30      惹      rě     irritate  vex  offend  incite
+31      喻      yù     metaphor  analogy; example; like
+32      谱      pǔ     list  table; musical score
+33      煌      huáng  bright  shining  luminous
+34      溶      róng   to melt  dissolve; overflowing with
+35      坠      zhuì   fall down  drop  sink  go to ruin
+36      滥      làn    flood  overflow; excessive
+37      瓷      cí     crockery  porcelain  chinaware
+38      浴      yù     bathe  wash; bath
+39      屁      pì     break wind; fart; buttocks
+40      漆      qī     varnish  lacquer  paint
+41      巢      cháo   nest  living quarter in tree
+42      吩      fēn    order  command  instruct
+43      啸      xiào   roar  howl  scream; whistle
+44      滞      zhì    block up  obstruct; stagnant
+45      膝      xī     knee     
+46      茂      mào    thick  lush  dense; talented
+47      恕      shù    forgive  excuse  show mercy
+48      渠      qú     ditch  canal  channel  gutter
+49      辰      chén   early morning; 5th terrestrial branch
+50      舶      bó     large  ocean-going vessel
+51      颁      bān    confer  bestow; publish  promulgate
+52      袍      páo    long gown  robe  cloak
+53      嘲      cháo   ridicule  deride  scorn  jeer at
+54      衔      xián   bit; hold in mouth  bite; gag
+55      倦      juàn   be tired of  weary
+56      涵      hán    soak  wet; tolerate  be lenient
+57      雀      què    sparrow  
+58      僵      jiāng  stiff and motionless  stock still
+59      肢      zhī    human limbs; animal feet
+60      垄      lǒng   grave  mound; ridge in field
+61      侨      qiáo   sojourn  lodge
+62      舆      yú     cart  palanquin  sedan chair
+63      弊      bì     evil  wrong  bad; criminal
+64      凄      qī     bitter cold  miserable  dreary
+65      捧      pěng   hold up in two hands
+66      浸      jìn    soak  immerse  dip  percolate
+67      砖      zhuān  tile  brick
+68      蒸      zhēng  steam; evaporate
+69      陡      dǒu    steep  sloping; abruptly  sudden
+70      哑      yǎ     dumb  mute; become hoarse
+71      坟      fén    grave  mound; bulge; bulging
+72      眨      zhǎ    wink     
+73      搏      bó     seize; spring upon; strike
+74      拢      lǒng   collect  bring together
+75      昧      mèi    obscure  dark; darken
+76      擅      shàn   monopolize; claim; arbitrarily; to dare
+77      爽      shuǎng happy  cheerful; refreshing
+78      搁      gē     place  put  lay down; delay
+79      雌      cí     female; feminine; gentle  soft
+80      哨      shào   whistle  blow whistle; chirp
+81      巩      gǒng   bind; firm  secure  strong
+82      昔      xī     formerly; ancient; in beginning
+83      谬      miù    error  exaggeration; erroneous
+84      谍      dié    an intelligence report; to spy; spying
+85      媳      xí     daughter-in-law
+86      冤      yuān   grievance  injustice  wrong
+87      鸦      yā     crow; Corvus species (various)
+88      蓬      péng   type of raspberry; fairyland
+89      巷      xiàng  alley  lane
+90      栽      zāi    to cultivate  plant; to care for plants
+91      沾      zhān   moisten  wet  soak; touch
+92      诈      zhà    cheat  defraud  swindle; trick
+93      瞒      mán    deceive  lie; eyes half-closed
+94      纺      fǎng   spin  reel  weave; reeled pongee
+95      罐      guàn   jar  jug  pitcher  pot
+96      壤      rǎng   soil  loam  earth; rich
+97      颂      sòng   laud  acclaim; hymn; ode
+98      膨      péng   to swell; swollen  bloated  inflated
+99      谐      xié    harmonize  agree; joke  jest
+100     隙      xì     crack  split  fissure; grudge
+1       绑      bǎng   bind  tie  fasten
+2       嘿      hēi    be silent  be quiet
+3       挫      cuò    push down; chop down; grind
+4       辐      fú     spokes of wheel
+5       乞      qǐ     beg; request
+6       哇      wa     vomit; cry of an infant
+7       绣      xiù    embroider; embroidery; ornament
+8       杖      zhàng  cane  walking stick
+9       衍      yǎn    overflow  spill over  spread out
+10      攀      pān    climb; pull; hang on to
+11      譬      pì     metaphor  simile  example
+12      肆      sì     indulge; excess; numeral four; particle meaning now  therefore; shop
+13      泣      qì     cry  sob  weep
+14      屡      lǚ     frequently  often  again and again
+15      躁      zào    tense  excited  irritable
+16      椎      chuí   hammer  mallet; vertebra
+17      砸      zá     smash  crush  break; pound  mash
+18      帆      fān    sail; boat
+19      窜      cuàn   run away; revise  edit; expel
+20      丸      wán    small round object; pellet  pill
+21      斩      zhǎn   cut  chop  sever; behead
+22      堤      dī     dike     
+23      塌      tā     fall in ruins  collapse
+24      贩      fàn    peddler  hawker  street merchant
+25      掀      xiān   lift  raise; stir
+26      谜      mí     riddle  conundrum; puzzle
+27      捏      niē    pick with fingers; knead; mold
+28      滨      bīn    beach  sea coast; river bank
+29      虏      lǔ     to capture  imprison  seize; a prison
+30      卸      xiè    lay down; retire from office
+31      沼      zhǎo   lake  fishpond  swamps
+32      株      zhū    numerary adjunct for trees; root
+33      剖      pōu    split in two  slice; dissect
+34      劈      pī     cut apart  split  chop
+35      哗      huā    rushing sound; gush forward
+36      怯      qiè    lacking in courage  afraid
+37      沫      mò     froth  foam  bubbles  suds
+38      竖      shù    perpendicular  vertical; erect
+39      峻      jùn    high  steep  towering; stern
+40      捞      lāo    scoop out of water; dredge  fish
+41      鄙      bǐ     mean; low
+42      魄      pò     vigor; body; dark part of moon
+43      兜      dōu    pouch    
+44      哄      hōng   coax; beguile  cheat  deceive
+45      颖      yǐng   rice tassel; sharp point; clever
+46      屑      xiè    bits  scraps  crumbs  fragments
+47      蚁      yǐ     ants     
+48      渗      shèn   soak through  infiltrate
+49      秃      tū     bald     
+50      旱      hàn    drought; dry; dry land
+51      谴      qiǎn   reprimand  scold  abuse
+52      稻      dào    rice growing in field  rice plant
+53      铸      zhù    melt  cast; coin  mint
+54      恍      huǎng  seemingly; absent-minded
+55      贬      biǎn   decrease  lower; censure  criticize
+56      烛      zhú    candle  taper; shine  illuminate
+57      朽      xiǔ    decayed  rotten; rot  decay
+58      佣      yōng   commission fee
+59      碌      lù     rough  uneven  rocky; mediocre
+60      迄      qì     extend  reach; until; till
+61      绅      shēn   girdle; tie  bind; gentry
+62      榜      bǎng   placard; list of successful exam candidates
+63      诵      sòng   recite  chant  repeat
+64      禽      qín    birds  fowl; surname;; capture
+65      瞄      miáo   take aim at; look at
+66      幢      chuáng carriage curtain; sun screen
+67      睹      dǔ     look at  gaze at; observe
+68      贿      huì    bribe; bribes; riches  wealth
+69      蔑      miè    disdain  disregard; slight
+70      缚      fù     to tie   
+71      淹      yān    drown; cover with liquid  steep
+72      篷      péng   awning  covering; sail; boat
+73      勘      kān    investigate; compare; collate
+74      灿      càn    vivid  illuminating; bright
+75      敞      chǎng  roomy  spacious  open  broad
+76      蜡      là     wax; candle; waxy  glazed; maggot; as a non-simplified form sometimes used as an equivalent to 䄍  meaning imperial harvest
+77      辜      gū     crime  criminal offense
+78      垫      diàn   advance money  pay for another
+79      妒      dù     jealous  envious
+80      谣      yáo    sing; folksong  ballad; rumor
+81      枕      zhěn   pillow   
+82      丐      gài    beggar; beg; give
+83      泌      mì     to seep out  excrete
+84      叮      dīng   exhort or enjoin repeatedly
+85      掷      zhì    throw  hurl  cast  fling
+86      侮      wǔ     insult  ridicule  disgrace
+87      蚀      shí    nibble away; erode; eclipse
+88      霜      shuāng frost; crystallized; candied
+89      蕴      yùn    to collect  gather  store; profound
+90      妆      zhuāng to adorn oneself  dress up  use make-up
+91      捆      kǔn    tie up; bind  truss up; bundle
+92      丙      bǐng   third; 3rd heavenly stem
+93      钞      chāo   paper money  bank notes; copy
+94      犬      quǎn   dog; radical number 94
+95      躬      gōng   body; personally  in person
+96      昼      zhòu   daytime  daylight
+97      奠      diàn   pay respect; settle
+98      蹈      dǎo    stamp feet; dance
+99      陋      lòu    narrow; crude  coarse; ugly
+100     侣      lǚ     companion; associate with
+1       侄      zhí    nephew   
+2       虐      nüè    cruel  harsh  oppressive
+3       堕      duò    fall  sink  let fall; degenerate
+4       茎      jīng   stem  stalk
+5       喇      lǎ     horn  bugle; lama; final particle
+6       绒      róng   silk  cotton  or woolen fabric
+7       搅      jiǎo   disturb  agitate  stir up
+8       缔      dì     tie  join  connect; connection
+9       嫉      jí     jealousy; be jealous of
+10      灶      zào    kitchen stove  cooking stove
+11      鸽      gē     pigeon  dove; Columba species (various)
+12      纬      wěi    woof; parallels of latitude
+13      沸      fèi    boil  bubble up  gush
+14      畴      chóu   farmland  arable land; category
+15      遏      è      stop  suppress  curb  check; a bar
+16      烁      shuò   shine  glitter  sparkle
+17      嗅      xiù    smell  scent  sniff; olfactive
+18      叭      bā     trumpet  
+19      奢      shē    extravagant  wasteful; exaggerate
+20      拙      zhuō   stupid  clumsy  crude; convention
+21      栋      dòng   main beams supporting house
+22      泻      xiè    drain off  leak; flow  pour down
+23      晤      wù     have interview with; meet
+24      稚      zhì    young  immature; childhood
+25      捣      dǎo    hull; thresh; beat  attack
+26      尴      gān    embarrassed; ill at ease
+27      尬      gà     limp  staggering gait; embarrass
+28      诧      chà    be surprised  be shocked
+29      嚼      jué    prattle  be glib
+30      旷      kuàng  extensive  wide  broad; empty
+31      芽      yá     bud  sprout  shoot
+32      碳      tàn    carbon   
+33      惕      tì     be cautious  careful  alert
+34      汹      xiōng  turbulent; noisy  restless
+35      腥      xīng   raw meat; rank  strong-smelling
+36      澄      chéng  purify water by allowing sediment to settle; clear  pure
+37      萎      wēi    wither  wilt
+38      滔      tāo    overflow; rushing water  a torrent
+39      酿      niàng  brew  ferment
+40      诫      jiè    warn  admonish; warning
+41      棕      zōng   hemp palm; palm tree
+42      喧      xuān   lively  noisy; clamor  talk loudly
+43      伺      cì     serve  wait upon  attend; examine
+44      梢      shāo   pointed tip of something long like a branch; rudder
+45      坝      bà     embankment; dam
+46      敷      fū     spread  diffuse; apply  paint
+47      庇      bì     cover  shield  shelter  protect
+48      挠      náo    scratch; disturb  bother; submit
+49      搂      lǒu    hug  embrace; drag  pull
+50      噪      zào    be noisy; chirp loudly
+51      稼      jià    sow grain; sheaves of grain
+52      寝      qǐn    sleep  rest; bed chamber
+53      哺      bǔ     chew food; feed
+54      帜      zhì    flag  pennant; sign; fasten
+55      揉      róu    rub  massage; crush by hand
+56      腻      nì     greasy  oily  dirty; smooth
+57      瘫      tān    paralysis  palsy  numbness
+58      觅      mì     seek; search
+59      僻      pì     out-of-the-way  remote; unorthodox
+60      蔓      màn    creeping plants  tendrils  vines
+61      咋      zǎ     question-forming particle  why? how? what?; to bite; loud
+62      嵌      qiàn   inlay  set in; fall into; rugged
+63      畔      pàn    boundary path dividing fields
+64      涩      sè     astringent; harsh; uneven  rough
+65      蹦      bèng   hop  leap  jump; bright
+66      叨      dāo    talkative; quarrelous
+67      呕      ǒu     vomit; annoy  enrage
+68      凸      tū     protrude  bulge out  convex
+69      熄      xī     put out  extinguish  quash
+70      裳      shang  clothes; skirt; beautiful
+71      凹      āo     concave  hollow  depressed; a pass  valley
+72      膛      táng   chest; hollow space  cavity
+73      聋      lóng   deaf     
+74      沮      jǔ     stop  prevent; defeated  dejected
+75      萌      méng   bud  sprout
+76      撇      piē    discard  abandon  throw away
+77      苟      gǒu    careless  frivolous; illicit; grammatical particle: if  but  if only; surname; grass name; distinguish DKW 30853 (ji4)
+78      蚂      mǎ     ant; leech
+79      俭      jiǎn   temperate  frugal  economical
+80      帖      tiē    invitation card; notice
+81      煎      jiān   fry in fat or oil; boil in water
+82      墅      shù    villa  country house
+83      伶      líng   lonely  solitary; actor
+84      歹      dǎi    bad  vicious  depraved  wicked
+85      廓      kuò    broad  wide  open  empty; to expand
+86      讳      huì    conceal; shun; regard as taboo
+87      瓣      bàn    petal; segment; valves
+88      枉      wǎng   useless  in vain; bent  crooked
+89      琢      zuó    polish jade; cut jade
+90      讥      jī     ridicule  jeer  mock; inspect
+91      呻      shēn   groan  moan; recite with intonation
+92      慷      kāng   ardent; generous  magnanimous
+93      锤      chuí   balance weight on scale; hammer
+94      桨      jiǎng  oar  paddle
+95      磅      bàng   pound; weigh
+96      馈      kuì    offer food superior; send gift
+97      溅      jiàn   sprinkle  spray; spill  splash
+98      钙      gài    calcium  
+99      彰      zhāng  clear  manifest  obvious
+100     眯      mī     be blinded
+1       墟      xū     high mound; hilly countryside; wasteland
+2       瞻      zhān   look; look out for; respect
+3       悼      dào    grieve  mourn  lament; grieved
+4       拣      jiǎn   choose; select; pick up; gather
+5       渺      miǎo   endlessly long  boundless  vast
+6       汰      tài    excessive; scour  wash out
+7       镶      xiāng  insert  inlay  set  mount; fill
+8       趴      pā     lying prone  leaning over
+9       酌      zhuó   serve wine; feast; deliberate
+10      浊      zhuó   muddy  turbid  dirty  filthy
+11      撼      hàn    move  shake; (Cant.) to fight
+12      扛      káng   carry on shoulders; lift
+13      峭      qiào   steep  precipitous  rugged
+14      磕      kē     hit; collide  knock into; sound
+15      翘      qiào   turn up  lift  elevate  raise
+16      熏      xūn    smoke  fog  vapor; smoke  cure
+17      缀      zhuì   patch together  link  connect
+18      徊      huái   linger  walk to and fro  hesitain
+19      肪      fáng   animal fat
+20      涕      tì     tear; snivel  nasal mucus
+21      惫      bèi    tired  weary  fatigued
+22      挚      zhì    sincere  warm  cordial; surname
+23      绎      yì     to unravel or unreel silk; to interpret
+24      睦      mù     friendly  amiable  peaceful
+25      窍      qiào   hole  opening  aperture
+26      粥      zhōu   rice gruel  congee
+27      沧      cāng   blue  dark green; cold
+28      怠      dài    idle  remiss  negligent; neglect
+29      咙      lóng   throat   
+30      沛      pèi    abundant  full  copious; sudden
+31      崭      zhǎn   high  steep  precipitous; new
+32      鞠      jū     bow  bend; rear  raise  nourish
+33      唾      tuò    spit  spit on; saliva
+34      洽      qià    to blend with  be in harmony; to penetrate; to cover; a river in Shenxi
+35      柬      jiǎn   letter  invitation; choose
+36      擎      qíng   lift up  hold up  support
+37      疤      bā     scar  cicatrix; birthmark
+38      钝      dùn    blunt  obtuse; dull; flat; dull-witted
+39      氓      máng   people; subjects; vassals
+40      杠      gāng   lever  pole  crowbar; sharpen
+41      诬      wū     make false accusation; defame
+42      抒      shū    express; eliminate; relieve
+43      侈      chǐ    luxurious  extravagant
+44      徘      pái    walk back and forth  hesitate
+45      嗦      suo    suck     
+46      狈      bèi    a legendary animal with short forelegs which rode a wolf
+47      搓      cuō    to rub or roll between the hands
+48      赁      lìn    rent  hire; hired person
+49      婪      lán    covet; covetous  avaricious
+50      紊      wěn    confused  disorder
+51      兢      jīng   fearful  cautious  wary
+52      扒      bā     scratch; dig up; crawl; crouch
+53      痪      huàn   paralysis  numbness of limbs
+54      宵      xiāo   night  evening  dark
+55      岔      chà    diverge  branch off; fork in road
+56      韧      rèn    strong and pliable  resilient
+57      憋      biē    to suppress inner feelings; hasty
+58      衅      xìn    consecrate sacrificial vessels by smearing blood; rift
+59      隘      ài     narrow  confined; a strategic pass
+60      濒      bīn    approach  be on verge of; near
+61      剔      tī     pick out; scrape off; scrape meat
+62      淀      diàn   shallow water  swamp; swampy
+63      缉      jī     to sew in close stitches
+64      斟      zhēn   to pour wine or tea into a cup; to gauge
+65      拧      níng   pinch; twist  wring; determined
+66      蔚      wèi    luxuriant  thick; ornamental
+67      眶      kuàng  eye socket; rim of eye
+68      瀑      pù     waterfall  cascade; heavy rain
+69      渣      zhā    refuse  dregs  lees  sediment
+70      辙      zhé    wagon ruts  wheel tracks
+71      潇      xiāo   sound of beating wind and rain
+72      阱      jǐng   pitfall  trap  snare
+73      哆      duō    tremble  shiver  shudder  quiver
+74      辫      biàn   braid; pigtail  plait  queue
+75      拽      zhuāi  drag  tow; throw; twist
+76      滤      lǜ     strain out  filter
+77      睬      cǎi    notice; pay attention to
+78      谤      bàng   slander  libel
+79      捍      hàn    ward off  guard against  defend
+80      瘾      yǐn    rash; addiction  craving  habit
+81      磋      cuō    polish  buff; scrutinize
+82      淆      xiáo   confused  in disarray  mixed up
+83      烘      hōng   bake  roast; dry by fire
+84      赂      lù     bribe; give present
+85      炫      xuàn   shine  glitter; show off  flaunt
+86      迸      bèng   gush out; burst forth; split
+87      嗨      hāi    an exclamation
+88      惰      duò    indolent  careless  lazy  idle
+89      椭      tuǒ    oval-shaped  elliptical  tubular
+90      侃      kǎn    upright and strong; amiable
+91      瞩      zhǔ    watch carefully  stare at  focus on
+92      蕾      lěi    buds  unopened flowers
+93      炊      chuī   cook; meal
+94      隧      suì    tunnel  underground passageway  path to a tomb
+95      啃      kěn    gnaw  chew  bite
+96      舔      tiǎn   lick with tongue; taste
+97      蹬      dēng   step on  tread on; lose energy
+98      袱      fú     a piece of cloth used wrap bundles
+99      殴      ōu     beat  fight with fists  hit
+100     侥      jiǎo   be lucky; by chance  by luck
+1       酝      yùn    liquor  spirits  wine; ferment
+2       澈      chè    thoroughly  completely
+3       锈      xiù    rust  corrode
+4       稠      chóu   dense  crowded  packed; soupy
+5       搀      chān   give helping hand
+6       筛      shāi   sieve  filter  screen; sift
+7       痹      bì     paralysis  numbness
+8       甭      béng   there is no need
+9       唠      láo    chat  jaw  gossip  talk
+10      徙      xǐ              
+11      筐      kuāng  bamboo basket or chest
+12      曝      pù     sun  air in sun  expose or dry in the sun
+13      嘈      cáo    noisy    
+14      蔼      ǎi     lush; affable  friendly
+15      烹      pēng   boil  cook; quick fry  stir fry
+16      沐      mù     bathe  cleanse  wash  shampoo
+17      掐      qiā    hold; gather with hand; choke
+18      咀      jǔ     suck; chew  masticate
+19      吝      lìn    stingy  miserly  parsimonious
+20      肴      yáo    cooked or prepared meat
+21      溉      gài    water  irrigate  flood; wash
+22      疙      gē     pimple  sore  boil  wart  pustule
+23      揍      zòu    hit  beat; smash  break
+24      倔      jué    stubborn  obstinate  intransigent; firm
+25      诽      fěi    slander  vilify  condemn
+26      攒      zǎn    save  hoard
+27      瘩      da     pimples  
+28      殃      yāng   misfortune  disaster  calamity
+29      俐      lì     smooth; active; clever  sharp
+30      拌      bàn    mix      
+31      橙      chéng  orange   
+32      簸      bǒ     winnower 
+33      惋      wǎn    regret  be sorry; alarmed
+34      惮      dàn    dread  shrink from  shirk  fear
+35      捎      shāo   to select; to take; to carry
+36      唆      suō    make mischief  incite  instigate
+37      榨      zhà    to press or extract juices; a press to extract juices; a vegetable
+38      蹋      tà     step on  tread on; stumble  slip
+39      叼      diāo   holding in mouth
+40      秤      chèng  balance  scale  steelyard
+41      惦      diàn   think of  remember  miss
+42      藐      miǎo   disregard  slight  disdain
+43      馅      xiàn   filling  stuffing; secret
+44      暧      ài     obscure  dim  ambiguous  vague
+45      辕      yuán            
+46      馋      chán   gluttonous  greedy; lewd  lecherous
+47      啬      sè     miserly  thrifty; stingy
+48      踊      yǒng   leap  jump
+49      暄      xuān   warm  comfortable; warm  genial
+50      晾      liàng  air-dry; sun-dry
+51      瘸      qué    lameness  paralysis of hands  leg
+52      挎      kuà    carry    
+53      阂      hé     blocked or separated; to prevent
+54      雹      báo    hail     
+55      酗      xù     drunk  to become violent under the influence of alcohol
+56      拄      zhǔ    lean on; post; prod; ridicule
+57      掰      bāi    (Cant.) to tear  to rip
+58      荤      hūn    meat diet; strong smelling
+59      饪      rèn    cooked food; cook until well done
+60      熨      yùn    iron  press
+61      涮      shuàn  rinse; cook or boil in juice
+62      锲      qiè    sickle; cut  carve  engrave
+63      啰      luō    phonetic 
